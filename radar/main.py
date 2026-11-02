@@ -39,7 +39,7 @@ def build_tasks(cfg: dict) -> list[tuple[str, callable]]:
     return tasks
 
 
-def collect(cfg: dict, workers: int = 8) -> tuple[list[Job], dict]:
+def collect(cfg: dict, workers: int = 16) -> tuple[list[Job], dict]:
     jobs: list[Job] = []
     report: dict[str, dict] = {}
     with ThreadPoolExecutor(max_workers=workers) as pool:

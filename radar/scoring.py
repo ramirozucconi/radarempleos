@@ -13,7 +13,7 @@ def _rx(*terms: str) -> re.Pattern:
 
 # --- Títulos ---
 CORE = _rx(
-    r"procurement", r"purchas\w*", r"sourcing", r"procure.to.pay", r"p2p", r"ptp",
+    r"procurement", r"purchas\w*", r"sourcing", r"procure.to.pay", r"ptp",
     r"accounts payable", r"vendor\w*", r"supplier\w*", r"contract (?:analyst|manag\w*|admin\w*|specialist)",
     r"billing", r"order.to.cash", r"o2c", r"revenue operations", r"rev ?ops",
     r"financ\w* operations", r"fin ?ops", r"payments? operations",
@@ -36,6 +36,10 @@ EXCLUDE = _rx(
     r"trainee", r"junior", r"jr", r"customer support", r"support (?:agent|specialist)",
     r"kyc", r"aml", r"fraud", r"compliance", r"counsel", r"paralegal", r"director", r"head of",
     r"vp", r"vice president", r"principal", r"staff", r"chief", r"architect",
+    # Falsos positivos vistos en la primera corrida:
+    r"client service\w*", r"customer service\w*", r"product manager", r"sales manager",
+    r"people", r"hr", r"human resources", r"community", r"talent", r"trust",
+    r"successfactors", r"servicenow", r"salesforce", r"m/w/d", r"w/m/d", r"\w*berater\w*",
 )
 SENIOR_PENALTY = _rx(r"manager", r"lead", r"gerente", r"jefe")
 
@@ -67,6 +71,7 @@ UK = _rx(r"united kingdom", r"uk", r"london", r"england", r"manchester", r"edinb
 GLOBAL = _rx(r"anywhere", r"worldwide", r"global", r"world")
 DESC_OPEN_TO_US = _rx(r"argentina", r"latam", r"latin america", r"south america",
                       r"anywhere in the world", r"worldwide", r"fully remote from anywhere")
+REMOTE_WORDS = re.compile(r"\b(remote|remoto|fully|full time|home office|work from home|wfh)\b|[^\w]+")
 
 
 def classify_region(job: Job) -> tuple[str, int, list[str]]:
@@ -84,7 +89,9 @@ def classify_region(job: Job) -> tuple[str, int, list[str]]:
     if GLOBAL.search(loc):
         return "Latinoamérica", 8, ["Remoto global: confirmar que acepta Argentina"]
     # "Remote" a secas o sin ubicación: solo si la descripción abre a LATAM/mundo.
-    if (job.remote or "remote" in loc or not loc) and DESC_OPEN_TO_US.search(desc):
+    # Si la ubicación nombra cualquier otro lugar (US, Brasil, Bangladesh…), se descarta.
+    leftover = REMOTE_WORDS.sub(" ", loc).strip(" ,;/-()|")
+    if not leftover and DESC_OPEN_TO_US.search(desc):
         return "Latinoamérica", 6, ["Ubicación ambigua: confirmar que acepta Argentina"]
     return "", 0, []
 
