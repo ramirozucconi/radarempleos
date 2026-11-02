@@ -1,0 +1,414 @@
+{
+ "ashby:Deepgram": {
+  "ok": true,
+  "jobs": 82
+ },
+ "ashby:cohere": {
+  "ok": true,
+  "jobs": 120
+ },
+ "ashby:deel": {
+  "ok": true,
+  "jobs": 0
+ },
+ "ashby:elevenlabs": {
+  "ok": true,
+  "jobs": 145
+ },
+ "ashby:harvey": {
+  "ok": true,
+  "jobs": 378
+ },
+ "ashby:kraken.com": {
+  "ok": true,
+  "jobs": 88
+ },
+ "ashby:langchain": {
+  "ok": true,
+  "jobs": 100
+ },
+ "ashby:linear": {
+  "ok": true,
+  "jobs": 31
+ },
+ "ashby:lovable": {
+  "ok": true,
+  "jobs": 80
+ },
+ "ashby:mercury": {
+  "ok": true,
+  "jobs": 0
+ },
+ "ashby:mistral": {
+  "ok": false,
+  "error": "https://api.ashbyhq.com/posting-api/job-board/mistral?includeCompensation=true: HTTP Error 404: Not Found"
+ },
+ "ashby:modal": {
+  "ok": true,
+  "jobs": 42
+ },
+ "ashby:n8n": {
+  "ok": true,
+  "jobs": 51
+ },
+ "ashby:notion": {
+  "ok": true,
+  "jobs": 146
+ },
+ "ashby:openai": {
+  "ok": true,
+  "jobs": 804
+ },
+ "ashby:perplexity": {
+  "ok": true,
+  "jobs": 137
+ },
+ "ashby:pinecone": {
+  "ok": true,
+  "jobs": 6
+ },
+ "ashby:posthog": {
+  "ok": true,
+  "jobs": 10
+ },
+ "ashby:ramp": {
+  "ok": true,
+  "jobs": 170
+ },
+ "ashby:revolut": {
+  "ok": false,
+  "error": "https://api.ashbyhq.com/posting-api/job-board/revolut?includeCompensation=true: HTTP Error 404: Not Found"
+ },
+ "ashby:runway": {
+  "ok": true,
+  "jobs": 3
+ },
+ "ashby:supabase": {
+  "ok": true,
+  "jobs": 69
+ },
+ "ashby:synthesia": {
+  "ok": true,
+  "jobs": 33
+ },
+ "ashby:truelogic": {
+  "ok": true,
+  "jobs": 101
+ },
+ "ashby:vercel": {
+  "ok": true,
+  "jobs": 0
+ },
+ "getonbrd:SAP": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:business analyst": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:compras": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:data analyst": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:finanzas": {
+  "ok": true,
+  "jobs": 46
+ },
+ "getonbrd:operaciones": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:power bi": {
+  "ok": true,
+  "jobs": 50
+ },
+ "getonbrd:procurement": {
+  "ok": true,
+  "jobs": 5
+ },
+ "greenhouse:adyen": {
+  "ok": true,
+  "jobs": 243
+ },
+ "greenhouse:airtable": {
+  "ok": true,
+  "jobs": 5
+ },
+ "greenhouse:anchorage": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/anchorage/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:anthropic": {
+  "ok": true,
+  "jobs": 677
+ },
+ "greenhouse:bitso": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/bitso/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:brex": {
+  "ok": true,
+  "jobs": 262
+ },
+ "greenhouse:caylent": {
+  "ok": true,
+  "jobs": 63
+ },
+ "greenhouse:chainalysis": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/chainalysis/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:circle": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/circle/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:clip": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/clip/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:cohere": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:coinbase": {
+  "ok": true,
+  "jobs": 268
+ },
+ "greenhouse:consensys": {
+  "ok": true,
+  "jobs": 13
+ },
+ "greenhouse:cookunity": {
+  "ok": true,
+  "jobs": 154
+ },
+ "greenhouse:databricks": {
+  "ok": true,
+  "jobs": 912
+ },
+ "greenhouse:deepmind": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:dlocal": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/dlocal/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:ebanx": {
+  "ok": true,
+  "jobs": 40
+ },
+ "greenhouse:fireblocks": {
+  "ok": true,
+  "jobs": 24
+ },
+ "greenhouse:gemini": {
+  "ok": true,
+  "jobs": 29
+ },
+ "greenhouse:huggingface": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/huggingface/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:kavak": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/kavak/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:konfio": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/konfio/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:moonpay": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/moonpay/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:nubank": {
+  "ok": true,
+  "jobs": 0
+ },
+ "greenhouse:nuvemshop": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/nuvemshop/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:okx": {
+  "ok": true,
+  "jobs": 383
+ },
+ "greenhouse:payoneer": {
+  "ok": true,
+  "jobs": 107
+ },
+ "greenhouse:plaid": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:rappi": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/rappi/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:remotecom": {
+  "ok": true,
+  "jobs": 0
+ },
+ "greenhouse:ripple": {
+  "ok": true,
+  "jobs": 113
+ },
+ "greenhouse:rippling": {
+  "ok": false,
+  "error": "https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true: HTTP Error 404: Not Found"
+ },
+ "greenhouse:scaleai": {
+  "ok": true,
+  "jobs": 168
+ },
+ "greenhouse:stripe": {
+  "ok": true,
+  "jobs": 743
+ },
+ "himalayas:SAP": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:accounts payable": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:billing operations": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:business analyst": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:data analyst": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:finance operations": {
+  "ok": true,
+  "jobs": 20
+ },
+ "himalayas:procurement": {
+  "ok": true,
+  "jobs": 20
+ },
+ "lever:RyzLabs": {
+  "ok": true,
+  "jobs": 46
+ },
+ "lever:belvo": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/belvo?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:binance": {
+  "ok": true,
+  "jobs": 5
+ },
+ "lever:bybit": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/bybit?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:crypto": {
+  "ok": true,
+  "jobs": 99
+ },
+ "lever:dlocal": {
+  "ok": true,
+  "jobs": 26
+ },
+ "lever:kueski": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/kueski?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:mistral": {
+  "ok": true,
+  "jobs": 0
+ },
+ "lever:nimblegravity": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/nimblegravity?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:palenca": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/palenca?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:tryjeeves": {
+  "ok": true,
+  "jobs": 72
+ },
+ "lever:uala": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/uala?mode=json: HTTP Error 404: Not Found"
+ },
+ "lever:wise": {
+  "ok": false,
+  "error": "https://api.lever.co/v0/postings/wise?mode=json: HTTP Error 404: Not Found"
+ },
+ "remotive:SAP": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:accounts payable": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:billing": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:business analyst": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:data analyst": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:finance operations": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:power bi": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:procurement": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:purchasing": {
+  "ok": true,
+  "jobs": 12
+ },
+ "remotive:revenue operations": {
+  "ok": true,
+  "jobs": 12
+ },
+ "rss:https://weworkremotely.com/remote-jobs.rss": {
+  "ok": true,
+  "jobs": 100
+ },
+ "workday:assurant": {
+  "ok": true,
+  "jobs": 61
+ },
+ "workday:bakerhughes": {
+  "ok": true,
+  "jobs": 125
+ },
+ "workday:chevron": {
+  "ok": true,
+  "jobs": 70
+ },
+ "workday:dow": {
+  "ok": true,
+  "jobs": 140
+ }
+}
