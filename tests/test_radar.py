@@ -106,6 +106,32 @@ class Scoring(unittest.TestCase):
         amb = self.s(job("Procurement Analyst", location="Remote", desc="open to candidates in LATAM, SAP"))
         self.assertEqual(amb.region, "Latinoamérica")
 
+    def test_first_run_false_positives(self):
+        """Casos reales que se colaron en la primera corrida."""
+        world = "open to candidates worldwide, SAP sql"
+        cases = [
+            job("Client Service Analyst - P2P", location="Anywhere in the World", desc=world),
+            job("Senior Business Analyst - Manufacturing", location="Bangladesh", desc=world),
+            job("ServiceNow Business Analyst", location="United States", desc=world),
+            job("Startup Products Strategy & Operations", location="Remote US, US", desc=world),
+            job("Senior Business Analyst, Credit", location="São Paulo, BR", desc=world),
+            job("SAP Anwendungsberater:in (m/w/d)", location="Germany", desc="SAP"),
+            job("SAP Successfactors Consultant", location="Germany", desc="SAP"),
+            job("Senior Product Manager (Licensing & Billing)", location="Berlin", desc="SAP"),
+            job("Sales Manager, Billing", location="Dublin", desc="SAP"),
+            job("Global HR Operations Specialist", location="Buenos Aires", desc="SAP"),
+            job("Community Operations Specialist", location="Dublin, Ireland", desc="SAP"),
+        ]
+        for j in cases:
+            self.assertIsNone(self.s(j), j.title)
+
+    def test_first_run_good_matches_kept(self):
+        for t in ["SAP Finance IT Analyst", "SAP S4/HANA MM / EAM & IAM Functional Analyst",
+                  "Associate Procurement Analyst", "BI Analyst"]:
+            self.assertIsNotNone(self.s(job(t, location="Buenos Aires, Argentina", desc="SAP")), t)
+        self.assertIsNotNone(self.s(job("Procurement Analyst", location="Remote",
+                                        desc="open to candidates in Argentina, SAP")))
+
     def test_old_posting_rejected_and_undated_kept(self):
         self.assertIsNone(self.s(job("Procurement Analyst", posted=NOW - timedelta(days=45))))
         self.assertIsNotNone(self.s(job("Procurement Analyst", posted=None, desc="SAP")))
