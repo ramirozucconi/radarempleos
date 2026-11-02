@@ -2,16 +2,15 @@ name: Radar de Empleos
 
 on:
   schedule:
-    # 07:17 y 17:17 en Buenos Aires (UTC-3), antes de que corra el radar de Claude (08:37 y 18:37).
     - cron: "17 10,20 * * *"
-  workflow_dispatch: {}   # botón "Run workflow" para correrlo a mano
+  workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
   group: radar
-  cancel-in-progress: false n
+  cancel-in-progress: false
 
 jobs:
   collect:
