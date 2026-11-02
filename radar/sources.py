@@ -7,7 +7,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-from .http import fetch
+from .net import fetch
 from .models import Job, html_to_text, parse_date
 
 q = urllib.parse.quote_plus
