@@ -1,0 +1,93 @@
+# Configuración del recolector del Radar de Empleos.
+# Para sumar una empresa, agregá su "slug" en la lista de su sistema de reclutamiento.
+# Si un slug no existe, el recolector lo anota en data/sources_report.json y sigue.
+
+[general]
+max_age_days = 30        # descartar avisos más viejos que esto (si el aviso trae fecha)
+min_score = 35           # puntaje mínimo para entrar en candidates.json
+max_candidates = 200     # tope de avisos en el archivo de salida
+forget_after_days = 60   # olvidar avisos que no aparecen hace más de N días
+
+# Empresas prioritarias: suman puntos extra (comparación sin mayúsculas, por substring).
+priority_companies = [
+  "anthropic", "openai", "mistral", "deepmind", "cohere", "elevenlabs", "synthesia",
+  "hugging face", "scale", "databricks", "deepgram",
+  "coinbase", "kraken", "binance", "bitso", "stripe", "wise", "revolut", "adyen",
+  "ripple", "circle", "crypto.com", "okx", "bybit", "deel", "nubank", "dlocal",
+  "chevron", "mercado libre", "mercadolibre", "globant", "ypf", "tecpetrol",
+]
+
+# ---- Sistemas de reclutamiento de cada empresa (APIs públicas) ----
+
+[sources.greenhouse]
+slugs = [
+  "anthropic", "stripe", "coinbase", "databricks", "scaleai", "adyen", "ripple",
+  "circle", "nubank", "okx", "cohere", "huggingface", "deepmind", "dlocal", "bitso",
+  "remotecom", "caylent", "cookunity", "airtable", "brex", "rippling", "plaid",
+  "chainalysis", "fireblocks", "anchorage", "gemini", "consensys", "moonpay",
+  "payoneer", "ebanx", "clip", "konfio", "kavak", "rappi", "nuvemshop",
+]
+
+[sources.ashby]
+slugs = [
+  "openai", "elevenlabs", "kraken.com", "Deepgram", "cohere", "deel", "mistral",
+  "synthesia", "revolut", "truelogic", "ramp", "mercury", "perplexity", "harvey",
+  "runway", "lovable", "n8n", "langchain", "pinecone", "modal", "vercel",
+  "notion", "linear", "posthog", "supabase",
+]
+
+[sources.lever]
+slugs = [
+  "mistral", "dlocal", "tryjeeves", "wise", "RyzLabs", "binance", "bybit",
+  "crypto", "uala", "belvo", "palenca", "kueski", "nimblegravity",
+]
+
+# Workday: host, tenant y site salen de la URL de empleos de la empresa:
+# https://<host>/<site>/job/...   ->   API: https://<host>/wday/cxs/<tenant>/<site>/jobs
+[[sources.workday]]
+company = "Dow"
+host = "dow.wd1.myworkdayjobs.com"
+tenant = "dow"
+site = "ExternalCareers"
+
+[[sources.workday]]
+company = "Assurant"
+host = "assurant.wd1.myworkdayjobs.com"
+tenant = "assurant"
+site = "assurant_careers"
+
+[[sources.workday]]
+company = "Chevron"
+host = "chevron.wd5.myworkdayjobs.com"
+tenant = "chevron"
+site = "jobs"
+
+[[sources.workday]]
+company = "Baker Hughes"
+host = "bakerhughes.wd5.myworkdayjobs.com"
+tenant = "bakerhughes"
+site = "BakerHughes"
+
+[sources.workday_queries]
+# Textos que se buscan en cada Workday (después se filtra por ubicación).
+terms = ["procurement", "purchasing", "compras", "accounts payable", "procure to pay",
+         "business analyst", "data analyst", "SAP"]
+
+# ---- Bolsas de empleo remoto ----
+
+[sources.remotive]
+searches = ["procurement", "purchasing", "accounts payable", "billing", "finance operations",
+            "business analyst", "data analyst", "power bi", "SAP", "revenue operations"]
+
+[sources.himalayas]
+searches = ["procurement", "accounts payable", "billing operations", "business analyst",
+            "data analyst", "finance operations", "SAP"]
+
+[sources.getonbrd]
+searches = ["procurement", "compras", "business analyst", "data analyst", "power bi",
+            "finanzas", "operaciones", "SAP"]
+
+[sources.rss]
+feeds = [
+  "https://weworkremotely.com/remote-jobs.rss",
+]
