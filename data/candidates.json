@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-02T22:12:44+00:00",
+ "generated_at": "2026-11-02T22:30:22+00:00",
  "stats": {
-  "raw": 8155,
-  "candidates": 34,
-  "new": 34,
-  "sources_ok": 78,
-  "sources_total": 103
+  "raw": 7658,
+  "candidates": 19,
+  "new": 0,
+  "sources_ok": 67,
+  "sources_total": 75
  },
  "jobs": [
   {
@@ -15,7 +15,7 @@
    "url": "https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-Finance-IT-Analyst_R000074822",
    "location": "Buenos Aires, Buenos Aires, Argentina",
    "remote": null,
-   "posted_at": "2026-11-02T22:12:49.351001+00:00",
+   "posted_at": "2026-11-02T22:30:23.695222+00:00",
    "description": "",
    "salary": "",
    "score": 70,
@@ -23,7 +23,7 @@
    "flags": [],
    "key": "b5d6a0588f90318d",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:chevron",
@@ -32,7 +32,7 @@
    "url": "https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-S4-HANA-MM---EAM---IAM-Functional-Analys_R000072051",
    "location": "Buenos Aires, Buenos Aires, Argentina",
    "remote": null,
-   "posted_at": "2026-11-02T22:12:49.351001+00:00",
+   "posted_at": "2026-11-02T22:30:23.695222+00:00",
    "description": "",
    "salary": "",
    "score": 70,
@@ -40,62 +40,7 @@
    "flags": [],
    "key": "e60c7e2ad7b20d70",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "rss:weworkremotely.com",
-   "company": "Bybit",
-   "title": "Client Service Analyst - P2P",
-   "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-p2p",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "posted_at": "2026-10-31T07:31:02+00:00",
-   "description": "Headquarters: APAC - Remote About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance. Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and fast-moving environment where talent is empowered to drive real impact at the global scale. Supported by 24/7 multilingual customer service and a strong commitment to innovation, we are shaping the future of finance through technology, collaboration, and bold execution. Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services. Responsibilities: Responsible for supporting and professionally mediating / arbitrating customer disputes within the P2P market, with a strong focus on risk mitigation . Investigate, monitor, and analyze customer transactions to identify suspicious behaviors/patterns, and take decisive actions to p",
-   "salary": "",
-   "score": 69,
-   "region": "Latinoamérica",
-   "flags": [
-    "Remoto global: confirmar que acepta Argentina"
-   ],
-   "key": "d2f66704d53a59a6",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "GISA GmbH",
-   "title": "SAP Anwendungsberater:in (m/w/d)* für Hochschulen und Wissenschaft​ (standortuna",
-   "url": "https://himalayas.app/companies/gisa-gmbh/jobs/sap-anwendungsberater-in-m-w-d-fur-hochschulen-und-wissenschaft-standortuna?utm_source=api",
-   "location": "Germany",
-   "remote": true,
-   "posted_at": "2026-11-02T09:24:22+00:00",
-   "description": "@media (max-width: 978px) {.container { padding:0; } .row { padding:0; } .col-sm-6 { margin:0; }} .container { background-color: #F4F5F6; } .headline { font-size: 14pt;text-align: left; font-weight: normal;padding-top: 10px;padding-left: -20x !important;padding-bottom: 10px; } .text {text-align: justify;padding-left: -20px !important;font-size: 9pt;font-family: Arial, sans-serif;}li::marker { content: \"□\"; font-size: 14pt; padding-left: 5px !important; padding-right: 3mm; } li { font-size: 9pt; padding-left: 1mm;font-family: Arial, sans-serif; }.liste {padding-left: 10px !important; padding-bottom: 10px !important;text-align: left;} .text {text-align: justify;padding-left: -20px;font-size: 9pt;font-family: Arial, sans-serif;} In deiner Rolle als SAP Anwendungsberater:in (m/w/d) verstehst du die Bedürfnisse unserer Kund:innen, bringst deine Erfahrung ein und berätst auf Augenhöhe. Bei GISA bekommst du den Raum, Berufsleben und Privates harmonisch zu verbinden – mit flexiblen Arbeitszeiten, Mobile Work und Weiterbildungen, die dich voranbringen. Wir freuen uns auf deinen Einstieg ins Team! GISA. Join our Team. For a Balanced Life. Bei uns erwartet dich Einarbeitung in Prozesse, Projektmethodik und SAP-Funktionalitäten über die GISA-Academy Durchführung spannender SAP-Einführungs- und Betreuungsprojekte bei Kund:innen mit den erworbenen Kompetenzen Analyse der Geschäftsprozesse der Kund:innen und Erarbeitung von Optimierungsansätzen Unterstützung des Teams beim Customizing und b",
-   "salary": "",
-   "score": 67,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "e606feebad23a958",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "Avery Dennison",
-   "title": "Senior Business Analyst - Manufacturing",
-   "url": "https://himalayas.app/companies/avery-dennison/jobs/senior-business-analyst-manufacturing?utm_source=api",
-   "location": "Bangladesh",
-   "remote": true,
-   "posted_at": "2026-11-01T21:14:14+00:00",
-   "description": "Position Overview As an integral member of the IT FX/ MFG 4.0 Solution Portfolio team, the candidate needs to apply a high level of business systems analysis expertise in the Manufactory area. The candidate should have working knowledge on a manufacturing environment. Besides having extensive knowledge of Manufactory domain, Manufacturing Execution Systems (MES), also need process/ digital solution Understanding with Warehouse Management Systems (WMS), Supply Chain/ costing domains such as Order Management, Inventory, Warehouse, Shipping, Transportation, Work in Process, Bills of Materials, and Purchasing, Standard costing would be an advantage. The candidate would lead analysis for conversion of existing legacy data, lead regression testing, and provide analyses and specifications for development work for any new or changed system requirements, to train, implement, and support business processes. Documents business policies, practices and procedures to meet company standards and user needs. Leverages existing system's standard functionality to implement efficient and consistent Avery Dennison Global processes and procedures. Brings a level of functional and technical knowledge of Manufactory Execution System/ Advance Production Scheduling Digital Solutions. Key Responsibilities 1. Build & Site Rollout Management Provides Leadership and support for Apparel MES/APS/WMS global solution design & implementation/ rollout project execution from Business Process & Digital solution p",
-   "salary": "",
-   "score": 65,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina"
-   ],
-   "key": "489c0c0ddff0be40",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:Deepgram",
@@ -114,24 +59,7 @@
    ],
    "key": "635a983e86904aff",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "DL Remote",
-   "title": "SAP Successfactors Consultant",
-   "url": "https://himalayas.app/companies/dl-remote/jobs/sap-successfactors-consultant?utm_source=api",
-   "location": "Germany",
-   "remote": true,
-   "posted_at": "2026-11-02T03:15:57+00:00",
-   "description": "Wir besetzen aktuell die Position als SAP SuccessFactors Consultant (w/m/d) für eine etablierte Boutique-HR-Beratung, die moderne HR- und IT-Kompetenz vereint, um ihre Kunden erfolgreich bei der ganzheitlichen Digitalisierung der Personalarbeit zu begleiten. In dieser Position bist du maßgeblich dafür verantwortlich, Unternehmen bei der strategischen Umstellung auf SuccessFactors zu begleiten, bestehende SAP-Landschaften zu optimieren, gemeinsam mit den Fachbereichen zukunftsweisende HR-Prozesse zu konzipieren, anspruchsvolle Abrechnungs- und Zeitwirtschaftsthemen zu lösen sowie dich je nach deinen persönlichen Stärken aktiv in die Projektleitung oder den Pre-Sales einzubringen. Wir suchen nach einer engagierten Persönlichkeit, die tiefgehende praktische Erfahrung im Umfeld von SAP SuccessFactors (oder langjährige SAP HCM-Expertise kombiniert mit ersten SuccessFactors-Projekten) sowie sehr gute Deutsch- und gute Englischkenntnisse mitbringt. | WHAT YOU WILL DO Betreue und steuere als zentraler Ansprechpartner renommierte Firmen bei der strategischen sowie technischen Umstellung auf SAP SuccessFactors. Untersuche und optimiere vorhandene SAP-Systemlandschaften zur Gewährleistung einer zukunftssicheren und skalierbaren IT-Infrastruktur. Konzipiere und implementiere in enger Abstimmung mit den Fachbereichen neuartige, maßgeschneiderte und hocheffiziente HR-Prozesse. Gestalte ganzheitliche Konzepte und Systemarchitekturen für anspruchsvolle Aufgabenstellungen in den Bereichen Pay",
-   "salary": "EUR 120000–120000 al año",
-   "score": 63,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "a4556fc84294e5d4",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "lever:RyzLabs",
@@ -148,7 +76,7 @@
    "flags": [],
    "key": "271789ee15fb9b29",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "greenhouse:cookunity",
@@ -165,26 +93,7 @@
    "flags": [],
    "key": "934ba82c0c829fe2",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "ashby:n8n",
-   "company": "N8N",
-   "title": "Senior Product Manager (Licensing & Billing)",
-   "url": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a",
-   "location": "Berlin Office, Bosnia, Romania, Norway, Estonia, Latvia, Slovenia, Italy, Netherlands, Hungary, Portugal, France, Poland, Serbia, Germany, Austria, Finland, Albania, Lithuania, Slovakia, Ireland, Bulgaria, Denmark, Belgium, Czech Republic, United Kingdom, Croatia, Spain, Greece",
-   "remote": true,
-   "posted_at": "2026-10-22T14:43:17.628000+00:00",
-   "description": "The AI orchestration of your wildest imagination.\n\nn8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact.\n\n\n\nSince our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve:\n\n\n\n - Cultivated a community of more than 650,000 active developers and builders\n\n - Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects\n\n - Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation\n\n\nThat’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register http://app.n8n.cloud/register.\n\n\n\nWe’re in a defining moment of an incredible journey. Come and build with us.\n\n\n\nYour main goal will be to make it simple and reliable for customers to buy, pay for, and grow their use of n8n. You'll own the foundations of how n8n's commercial system works: licensing an",
-   "salary": "€89.7K – €152.3K • Offers Equity • Multiple Ranges",
-   "score": 57,
-   "region": "Europa (UE)",
-   "flags": [
-    "Puede pedir más seniority"
-   ],
-   "key": "a27e83fe8a48c4fc",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "himalayas",
@@ -203,7 +112,7 @@
    ],
    "key": "2d74a0e268cc3e56",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "lever:tryjeeves",
@@ -220,7 +129,7 @@
    "flags": [],
    "key": "59d0f8d0c6037591",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:assurant",
@@ -229,7 +138,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-03T22:12:48.952920+00:00",
+   "posted_at": "2026-10-03T22:30:23.688216+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -237,43 +146,7 @@
    "flags": [],
    "key": "8d4c511c7aa8d62e",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "General Dynamics Information Technology",
-   "title": "ServiceNow Business Analyst",
-   "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/servicenow-business-analyst?utm_source=api",
-   "location": "United States",
-   "remote": true,
-   "posted_at": "2026-11-02T13:41:56+00:00",
-   "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: MBI (T2) Job Family: Process and Operational Efficiency Job Qualifications: Skills: Agile Methodology, Backlog Refinement, Functional Requirements, Process Flow Certifications: None Experience: 6 + years of related experience US Citizenship Required: No Job Description: GDIT is seeking a Business Analyst to support the National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID) under the Business Process and Information Management Branch (BPIMB) ServiceNow Support Services (SNSS) program. In this role, you will assist NIAID in assessing business processes, identifying operational and functional requirements, developing conceptual business models, and translating stakeholder needs into actionable specifications for ServiceNow solutions. You will evaluate existing IT capabilities, identify gaps, generate strategies for improvement, and help shape direction and priorities for platform enhancements. This position requires strong analytical skills, experience with enterprise IT processes, and the ability to work in cross-functional environments to address complex operational needs. Hands-on experience supporting or analyzing ServiceNow workflows and modules is required. HOW A SERVICENOW BUSINESS ANALYST WILL MAKE AN IMPACT: Work with NIAID stakeholders to gather, analyze, and document functional a",
-   "salary": "USD 97750–132250 al año",
-   "score": 53,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina"
-   ],
-   "key": "a8b01cb6897dca47",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:stripe",
-   "company": "Stripe",
-   "title": "Community Operations Specialist",
-   "url": "https://stripe.com/jobs/search?gh_jid=8257185",
-   "location": "Dublin, Ireland Locations",
-   "remote": null,
-   "posted_at": "2026-10-05T18:26:16-04:00",
-   "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Community Operations manages Stripe’s support presence across public developer and merchant communities. The team responds across channels including X, Reddit, LinkedIn, Facebook, YouTube, and app-store reviews. Because these interactions are public and one-to-many, each response can influence user trust, Stripe’s brand, and the experience of people beyond the original poster. The team combines responsive community support with proactive signal detection. We identify recurring questions, emerging risk, product friction, documentation gaps, and opportunities to improve how Stripe supports its community. What you’ll do As a Community Operations Specialist, you will represent Stripe across public developer and merchant communities. You will independently assess and coordinate complex or high-visibility community cases, including situations involving influential users, executive tags, rapid amplification, privacy concerns, and incomplete information. ",
-   "salary": "",
-   "score": 51,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "f649bdfb0ea4487c",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "greenhouse:cookunity",
@@ -290,7 +163,7 @@
    "flags": [],
    "key": "d3fb3a961376ba73",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:elevenlabs",
@@ -309,7 +182,7 @@
    ],
    "key": "780d2c767bdc482e",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:assurant",
@@ -318,7 +191,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-10-26T22:12:48.952920+00:00",
+   "posted_at": "2026-10-26T22:30:23.688216+00:00",
    "description": "",
    "salary": "",
    "score": 47,
@@ -328,43 +201,7 @@
    ],
    "key": "74a9a761e791f966",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "ashby:elevenlabs",
-   "company": "Elevenlabs",
-   "title": "Trust Strategy & Operations",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24",
-   "location": "London, Dublin, United Kingdom",
-   "remote": true,
-   "posted_at": "2026-10-30T09:58:17.051000+00:00",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is a",
-   "salary": "",
-   "score": 46,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "b14591520cad7db1",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "lever:tryjeeves",
-   "company": "tryjeeves",
-   "title": "Senior Business Analyst, Credit & Analytics",
-   "url": "https://jobs.lever.co/tryjeeves/84bd0129-620a-4571-b9fe-bc839ef911b6",
-   "location": "São Paulo, BR",
-   "remote": true,
-   "posted_at": "2026-10-07T05:07:36.660000+00:00",
-   "description": "Jeeves is the stablecoin-native banking platform for global enterprises. Thousands of companies across 35 countries run their corporate cards, payments, treasury and spend on one platform, with more than $5B in annualized volume, payouts to 190 countries, and one of the fastest-growing stablecoin payment networks in the world. BMW, H&M, Lululemon, Burger King, Kavak and XP are among them, and more than 80% of customers use multiple Jeeves products.\nWe chose hard problems on purpose.\nWe hire for one thing: relentlessness. A strong motor that keeps going when the problem has no playbook. You'll know in your first week if Jeeves is right for you. For the right people, it's the steepest learning curve of your career.\nJeeves has raised more than $400 million in equity funding from Andreessen Horowitz, Y Combinator, CRV, Coinbase Ventures, GIC, AllianceBernstein, CoinFund and others.\nIf you want to rebuild how money moves across borders, come build it with us.\n\n\nJeeves extends credit to thousands of businesses across Latin America and beyond, and the quality of those decisions depends on the quality of our data. Our Credit & Analytics team has a clear roadmap: reliable portfolio monitoring, better risk models, and more automated credit decisioning. All of it depends on first getting our data foundation right — connecting and maintaining external data sources and cleaning up customer data consents — and today that work competes with day-to-day execution for the same few people.\nWe'r",
-   "salary": "",
-   "score": 46,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina"
-   ],
-   "key": "5750f9caa4a64a3f",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:elevenlabs",
@@ -383,7 +220,7 @@
    ],
    "key": "bf94449138cd8982",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:elevenlabs",
@@ -402,60 +239,7 @@
    ],
    "key": "2c2fa2610f78f511",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:payoneer",
-   "company": "Payoneer",
-   "title": "Global HR Operations Specialist",
-   "url": "https://www.payoneer.com/careers/position/8273579/?gh_jid=8273579",
-   "location": "Buenos Aires, Argentina, Argentina-Buenos Aires",
-   "remote": null,
-   "posted_at": "2026-10-26T06:41:39-04:00",
-   "description": "About Payoneer Founded in 2005, Payoneer is the global financial platform that removes friction from doing business across borders, with a mission to connect the world’s underserved businesses to a rising global economy. We’re a community with over 2,500 colleagues all over the world, working to serve customers, and partners in over 190 countries and territories. By taking the complexity out of the financial workflows–including everything from global payments and compliance to multi-currency and workforce management, to providing working capital and business intelligence–we give businesses the tools they need to work efficiently worldwide and grow with confidence. About the Skuad Acquisition Back in August 2024, Payoneer acquired Skuad. Skuad's expertise helps businesses in over 160 countries navigate complex challenges such as international payroll, remote onboarding, and regulatory compliance. This acquisition reinforces Payoneer's mission and solidifies Skuad's role as a trusted partner for global workforce management (WFM). This role will be part of our WFM business unit. Role Summary We are looking for a detail-oriented and proactive HR Operations Specialist to join our team. In this role, you will be responsible for managing the end-to-end employee lifecycle — including onboarding, offboarding, query resolution, and compliance. You’ll be a key player in ensuring smooth experiences for employees and clients across various geographies while maintaining adherence to local ",
-   "salary": "",
-   "score": 41,
-   "region": "Argentina",
-   "flags": [],
-   "key": "e77693daa692b97b",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:consensys",
-   "company": "MetaMask",
-   "title": "Senior People Operations Associate",
-   "url": "https://job-boards.greenhouse.io/consensys/jobs/8329366",
-   "location": "EMEA - Remote, EMEA - Remote",
-   "remote": true,
-   "posted_at": "2026-10-30T08:59:33-04:00",
-   "description": "Please note that we are unable to consider applications from candidates based in France, Italy, or Germany for this role. Money is moving onto the internet, and the shift has a name: Open Money. This is money that is open, portable, agentic, and owned by you. MetaMask spent the last ten years building it; with 100M+ downloads, users in ~190 countries, and trillions in cumulative transaction volume, it's the most trusted self-custodial financial platform on the internet. Now we're building the operating system for your money: one place to hold, move, grow, and use anything you own. Join a remote-first, global team rebuilding how money works: a problem that touches everyone, every day. About People & Talent People and Talent support the entire MetaMask community. We strive to be the destination employer of choice for our ecosystem. That goal is embedded in all the work we do to attract, retain and support our amazing talent. By joining our team you'll be working with a diverse group of incredible individuals who put 'people first' and are designing and building the workplace of the future. This role sits within our People Operations, Data & Systems ('PODS') team, which operates as a cohesive, global team within People & Talent. We drive operational excellence across the employee lifecycle by streamlining processes, strengthening programs and policies, and building scalable, intuitive systems that empower teams to do their best work. We delight our customers (employees, managers",
-   "salary": "",
-   "score": 40,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "f96c41b946367ec6",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:stripe",
-   "company": "Stripe",
-   "title": "Startup Products Strategy & Operations, Insights & Analytics",
-   "url": "https://stripe.com/jobs/search?gh_jid=8234710",
-   "location": "Remote US, US",
-   "remote": true,
-   "posted_at": "2026-10-30T09:11:32-04:00",
-   "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast. Our team is composed of high-agency, high-ownership product thinkers, who genuinely care about helping founders and making it easier to start and run a startup. Every person on the team is responsible for making our product the best it can be, and for ensuring our roadmap contains the highest impact ships for founders. What you’ll do As a Strategy & Operations team member on the Startup Products ",
-   "salary": "",
-   "score": 40,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina"
-   ],
-   "key": "2a082c07ac65c768",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "greenhouse:cookunity",
@@ -472,46 +256,7 @@
    "flags": [],
    "key": "b41b74e01baea7bf",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:stripe",
-   "company": "Stripe",
-   "title": "Sales Manager, Billing ",
-   "url": "https://stripe.com/jobs/search?gh_jid=8203201",
-   "location": "Dublin, London OR Berlin, Germany Locations",
-   "remote": null,
-   "posted_at": "2026-10-29T10:18:28-04:00",
-   "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Billing Sales is a team of deep functional and technical specialists who both lead and advise on deals for one of the most strategically important products in Stripe’s portfolio. Billing Sales is tasked with attacking a $100B market opportunity for automating the entire order to cash process. What you’ll do As the Manager, Billing Sales (Enterprise) at Stripe, you will use your leadership and management skills to manage and grow a team of Account Executives to help drive growth of Stripe Billing for sellers in the Americas. You will collaborate with the core sales leadership, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will own the coaching, development, and performance of your team, driving the forecast of the region. You will be instrumental in leading in-depth product discussions with existing and prospective customers – and building and executing against our go-to-ma",
-   "salary": "",
-   "score": 39,
-   "region": "Europa (UE)",
-   "flags": [
-    "Puede pedir más seniority",
-    "Pide 10+ años"
-   ],
-   "key": "5a9a516fd0f42b19",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:stripe",
-   "company": "Stripe",
-   "title": "Startup Products Strategy & Operations, Product Strategy",
-   "url": "https://stripe.com/jobs/search?gh_jid=8248415",
-   "location": "US-Remote, US",
-   "remote": true,
-   "posted_at": "2026-10-30T09:13:31-04:00",
-   "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a running start — and keep them running. We help founders form their company, raise capital, execute critical legal agreements, access the internet's best tools, and automate operations while feeling ambitious, smart, and assured. Our goal is to create more startups that get to product-market fit, fast. Our team is composed of high-agency, high-ownership product thinkers, who genuinely care about helping founders and making it easier to start and run a startup. Every person on the team is responsible for making our product the best it can be, and for ensuring our roadmap contains the highest impact ships for founders. What you’ll do As a Strategy & Operations partner on the Startup Products team",
-   "salary": "",
-   "score": 38,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina"
-   ],
-   "key": "28e09a0b4dfe4f2a",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:truelogic",
@@ -528,7 +273,7 @@
    "flags": [],
    "key": "0f97738d8c43c889",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:assurant",
@@ -537,7 +282,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Operations-Analyst_R-115107-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-19T22:12:48.952920+00:00",
+   "posted_at": "2026-10-19T22:30:23.688216+00:00",
    "description": "",
    "salary": "",
    "score": 37,
@@ -545,7 +290,7 @@
    "flags": [],
    "key": "84acdc47d9ff9c81",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:assurant",
@@ -554,7 +299,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Financial-Analyst_R-112662-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-13T22:12:48.952920+00:00",
+   "posted_at": "2026-10-13T22:30:23.688216+00:00",
    "description": "",
    "salary": "",
    "score": 37,
@@ -562,7 +307,7 @@
    "flags": [],
    "key": "ab1fd60f899d554c",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:assurant",
@@ -571,7 +316,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Senior-Financial-Reporting-Analyst_R-113803-2",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-03T22:12:48.952920+00:00",
+   "posted_at": "2026-10-03T22:30:23.688216+00:00",
    "description": "",
    "salary": "",
    "score": 37,
@@ -579,7 +324,7 @@
    "flags": [],
    "key": "1851be9f3039398a",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "greenhouse:ripple",
@@ -598,28 +343,7 @@
    ],
    "key": "134e56f2fabb540c",
    "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
-  },
-  {
-   "source": "greenhouse:stripe",
-   "company": "Stripe",
-   "title": "Sales Manager, Billing",
-   "url": "https://stripe.com/jobs/search?gh_jid=8326191",
-   "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, US",
-   "remote": true,
-   "posted_at": "2026-10-29T15:28:22-04:00",
-   "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The world is having a monetization moment – every ambitious company is replatforming their billing solution in response to AI. Stripes Billing is a team of deep functional and technical specialists who both lead and advise on deals for one of the most strategically important products in Stripe’s portfolio. Billing Sales is tasked with attacking a $100B market opportunity for automating the entire order to cash process and helping companies not get left behind in the AI era. What you’ll do As the Head of Grower Sales (Billing), you will use your leadership and management skills to manage and grow a team of Account Executives to drive expansion and retention of Stripe Billing across the AMER region. You will build and lead a team of sellers, while collaborating with the core sales leadership, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will own the coaching, developmen",
-   "salary": "",
-   "score": 35,
-   "region": "Latinoamérica",
-   "flags": [
-    "Ubicación ambigua: confirmar que acepta Argentina",
-    "Puede pedir más seniority",
-    "Pide 10+ años"
-   ],
-   "key": "530b6a94c8f4dc17",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": true
+   "is_new": false
   }
  ]
 }

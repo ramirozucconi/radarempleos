@@ -3,17 +3,13 @@
   "ok": true,
   "jobs": 82
  },
- "ashby:cohere": {
-  "ok": true,
-  "jobs": 120
- },
  "ashby:deel": {
   "ok": true,
   "jobs": 0
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 145
+  "jobs": 147
  },
  "ashby:harvey": {
   "ok": true,
@@ -38,10 +34,6 @@
  "ashby:mercury": {
   "ok": true,
   "jobs": 0
- },
- "ashby:mistral": {
-  "ok": false,
-  "error": "https://api.ashbyhq.com/posting-api/job-board/mistral?includeCompensation=true: HTTP Error 404: Not Found"
  },
  "ashby:modal": {
   "ok": true,
@@ -75,10 +67,6 @@
   "ok": true,
   "jobs": 170
  },
- "ashby:revolut": {
-  "ok": false,
-  "error": "https://api.ashbyhq.com/posting-api/job-board/revolut?includeCompensation=true: HTTP Error 404: Not Found"
- },
  "ashby:runway": {
   "ok": true,
   "jobs": 3
@@ -100,36 +88,36 @@
   "jobs": 0
  },
  "getonbrd:SAP": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=SAP&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:business analyst": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=business+analyst&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:compras": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=compras&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:data analyst": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=data+analyst&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:finanzas": {
-  "ok": true,
-  "jobs": 46
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=finanzas&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:operaciones": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=operaciones&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:power bi": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=power+bi&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:procurement": {
-  "ok": true,
-  "jobs": 5
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=procurement&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "greenhouse:adyen": {
   "ok": true,
@@ -139,17 +127,9 @@
   "ok": true,
   "jobs": 5
  },
- "greenhouse:anchorage": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/anchorage/jobs?content=true: HTTP Error 404: Not Found"
- },
  "greenhouse:anthropic": {
   "ok": true,
   "jobs": 677
- },
- "greenhouse:bitso": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/bitso/jobs?content=true: HTTP Error 404: Not Found"
  },
  "greenhouse:brex": {
   "ok": true,
@@ -158,22 +138,6 @@
  "greenhouse:caylent": {
   "ok": true,
   "jobs": 63
- },
- "greenhouse:chainalysis": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/chainalysis/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:circle": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/circle/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:clip": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/clip/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:cohere": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true: HTTP Error 404: Not Found"
  },
  "greenhouse:coinbase": {
   "ok": true,
@@ -189,15 +153,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 912
- },
- "greenhouse:deepmind": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:dlocal": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/dlocal/jobs?content=true: HTTP Error 404: Not Found"
+  "jobs": 911
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -211,29 +167,9 @@
   "ok": true,
   "jobs": 29
  },
- "greenhouse:huggingface": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/huggingface/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:kavak": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/kavak/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:konfio": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/konfio/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:moonpay": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/moonpay/jobs?content=true: HTTP Error 404: Not Found"
- },
  "greenhouse:nubank": {
   "ok": true,
   "jobs": 0
- },
- "greenhouse:nuvemshop": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/nuvemshop/jobs?content=true: HTTP Error 404: Not Found"
  },
  "greenhouse:okx": {
   "ok": true,
@@ -243,14 +179,6 @@
   "ok": true,
   "jobs": 107
  },
- "greenhouse:plaid": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true: HTTP Error 404: Not Found"
- },
- "greenhouse:rappi": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/rappi/jobs?content=true: HTTP Error 404: Not Found"
- },
  "greenhouse:remotecom": {
   "ok": true,
   "jobs": 0
@@ -259,17 +187,13 @@
   "ok": true,
   "jobs": 113
  },
- "greenhouse:rippling": {
-  "ok": false,
-  "error": "https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true: HTTP Error 404: Not Found"
- },
  "greenhouse:scaleai": {
   "ok": true,
   "jobs": 168
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 743
+  "jobs": 742
  },
  "himalayas:SAP": {
   "ok": true,
@@ -303,53 +227,17 @@
   "ok": true,
   "jobs": 46
  },
- "lever:belvo": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/belvo?mode=json: HTTP Error 404: Not Found"
- },
  "lever:binance": {
   "ok": true,
   "jobs": 5
- },
- "lever:bybit": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/bybit?mode=json: HTTP Error 404: Not Found"
  },
  "lever:crypto": {
   "ok": true,
   "jobs": 99
  },
- "lever:dlocal": {
-  "ok": true,
-  "jobs": 26
- },
- "lever:kueski": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/kueski?mode=json: HTTP Error 404: Not Found"
- },
- "lever:mistral": {
-  "ok": true,
-  "jobs": 0
- },
- "lever:nimblegravity": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/nimblegravity?mode=json: HTTP Error 404: Not Found"
- },
- "lever:palenca": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/palenca?mode=json: HTTP Error 404: Not Found"
- },
  "lever:tryjeeves": {
   "ok": true,
   "jobs": 72
- },
- "lever:uala": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/uala?mode=json: HTTP Error 404: Not Found"
- },
- "lever:wise": {
-  "ok": false,
-  "error": "https://api.lever.co/v0/postings/wise?mode=json: HTTP Error 404: Not Found"
  },
  "remotive:SAP": {
   "ok": true,
