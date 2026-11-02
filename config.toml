@@ -22,25 +22,19 @@ priority_companies = [
 [sources.greenhouse]
 slugs = [
   "anthropic", "stripe", "coinbase", "databricks", "scaleai", "adyen", "ripple",
-  "circle", "nubank", "okx", "cohere", "huggingface", "deepmind", "dlocal", "bitso",
-  "remotecom", "caylent", "cookunity", "airtable", "brex", "rippling", "plaid",
-  "chainalysis", "fireblocks", "anchorage", "gemini", "consensys", "moonpay",
-  "payoneer", "ebanx", "clip", "konfio", "kavak", "rappi", "nuvemshop",
+  "nubank", "okx", "remotecom", "caylent", "cookunity", "airtable", "brex",
+  "fireblocks", "gemini", "consensys", "payoneer", "ebanx",
 ]
 
 [sources.ashby]
 slugs = [
-  "openai", "elevenlabs", "kraken.com", "Deepgram", "cohere", "deel", "mistral",
-  "synthesia", "revolut", "truelogic", "ramp", "mercury", "perplexity", "harvey",
-  "runway", "lovable", "n8n", "langchain", "pinecone", "modal", "vercel",
-  "notion", "linear", "posthog", "supabase",
+  "openai", "elevenlabs", "kraken.com", "Deepgram", "deel", "synthesia", "truelogic",
+  "ramp", "mercury", "perplexity", "harvey", "runway", "lovable", "n8n", "langchain",
+  "pinecone", "modal", "vercel", "notion", "linear", "posthog", "supabase",
 ]
 
 [sources.lever]
-slugs = [
-  "mistral", "dlocal", "tryjeeves", "wise", "RyzLabs", "binance", "bybit",
-  "crypto", "uala", "belvo", "palenca", "kueski", "nimblegravity",
-]
+slugs = ["tryjeeves", "RyzLabs", "binance", "crypto"]
 
 # Workday: host, tenant y site salen de la URL de empleos de la empresa:
 # https://<host>/<site>/job/...   ->   API: https://<host>/wday/cxs/<tenant>/<site>/jobs
