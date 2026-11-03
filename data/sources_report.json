@@ -9,15 +9,15 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 151
+  "jobs": 150
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 373
+  "jobs": 372
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 88
+  "jobs": 87
  },
  "ashby:langchain": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 101
+  "jobs": 106
  },
  "ashby:vercel": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 244
+  "jobs": 245
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 675
+  "jobs": 672
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 267
+  "jobs": 270
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 261
+  "jobs": 264
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -149,11 +149,11 @@
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 153
+  "jobs": 151
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 911
+  "jobs": 910
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -285,7 +285,7 @@
  },
  "workday:assurant": {
   "ok": true,
-  "jobs": 61
+  "jobs": 62
  },
  "workday:bakerhughes": {
   "ok": true,
