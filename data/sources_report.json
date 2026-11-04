@@ -1,7 +1,7 @@
 {
  "ashby:Deepgram": {
   "ok": true,
-  "jobs": 77
+  "jobs": 71
  },
  "ashby:deel": {
   "ok": true,
@@ -9,23 +9,23 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 147
+  "jobs": 144
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 375
+  "jobs": 372
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 86
+  "jobs": 87
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 103
+  "jobs": 105
  },
  "ashby:linear": {
   "ok": true,
-  "jobs": 32
+  "jobs": 31
  },
  "ashby:lovable": {
   "ok": true,
@@ -49,11 +49,11 @@
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 810
+  "jobs": 818
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 136
+  "jobs": 137
  },
  "ashby:pinecone": {
   "ok": true,
@@ -61,11 +61,11 @@
  },
  "ashby:posthog": {
   "ok": true,
-  "jobs": 10
+  "jobs": 8
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 169
+  "jobs": 166
  },
  "ashby:runway": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "ashby:supabase": {
   "ok": true,
-  "jobs": 69
+  "jobs": 70
  },
  "ashby:synthesia": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 106
+  "jobs": 104
  },
  "ashby:vercel": {
   "ok": true,
@@ -105,7 +105,7 @@
  },
  "getonbrd:finanzas": {
   "ok": true,
-  "jobs": 45
+  "jobs": 47
  },
  "getonbrd:operaciones": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 241
+  "jobs": 240
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 680
+  "jobs": 682
  },
  "greenhouse:brex": {
   "ok": true,
@@ -141,11 +141,11 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 267
+  "jobs": 278
  },
  "greenhouse:consensys": {
   "ok": true,
-  "jobs": 13
+  "jobs": 12
  },
  "greenhouse:cookunity": {
   "ok": true,
@@ -153,15 +153,15 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 914
+  "jobs": 926
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 39
+  "jobs": 40
  },
  "greenhouse:fireblocks": {
   "ok": true,
-  "jobs": 25
+  "jobs": 26
  },
  "greenhouse:gemini": {
   "ok": true,
@@ -177,7 +177,7 @@
  },
  "greenhouse:payoneer": {
   "ok": true,
-  "jobs": 101
+  "jobs": 102
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -185,7 +185,7 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 112
+  "jobs": 113
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 745
+  "jobs": 754
  },
  "himalayas:SAP": {
   "ok": true,
@@ -201,19 +201,19 @@
  },
  "himalayas:accounts payable": {
   "ok": true,
-  "jobs": 19
+  "jobs": 20
  },
  "himalayas:billing operations": {
   "ok": true,
-  "jobs": 18
+  "jobs": 20
  },
  "himalayas:business analyst": {
   "ok": true,
-  "jobs": 19
+  "jobs": 20
  },
  "himalayas:data analyst": {
   "ok": true,
-  "jobs": 19
+  "jobs": 20
  },
  "himalayas:finance operations": {
   "ok": true,
@@ -225,7 +225,7 @@
  },
  "lever:RyzLabs": {
   "ok": true,
-  "jobs": 46
+  "jobs": 43
  },
  "lever:binance": {
   "ok": true,
@@ -233,51 +233,51 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 98
+  "jobs": 97
  },
  "lever:tryjeeves": {
   "ok": true,
-  "jobs": 71
+  "jobs": 73
  },
  "remotive:SAP": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:accounts payable": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:billing": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:business analyst": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:data analyst": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:finance operations": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:power bi": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:procurement": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:purchasing": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "remotive:revenue operations": {
   "ok": true,
-  "jobs": 10
+  "jobs": 11
  },
  "rss:https://weworkremotely.com/remote-jobs.rss": {
   "ok": true,
@@ -289,11 +289,11 @@
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 122
+  "jobs": 126
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 72
+  "jobs": 71
  },
  "workday:dow": {
   "ok": true,
