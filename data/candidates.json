@@ -1,13 +1,109 @@
 {
- "generated_at": "2026-11-04T17:59:01+00:00",
+ "generated_at": "2026-11-05T00:52:56+00:00",
  "stats": {
-  "raw": 8022,
-  "candidates": 20,
-  "new": 2,
+  "raw": 8038,
+  "candidates": 24,
+  "new": 5,
   "sources_ok": 75,
   "sources_total": 75
  },
  "jobs": [
+  {
+   "source": "himalayas",
+   "company": "CNT Management Consulting",
+   "title": "SAP Senior Project Manager (Hasselt, BE)",
+   "url": "https://himalayas.app/companies/cnt-management-consulting/jobs/sap-senior-project-manager-hasselt-be?utm_source=api",
+   "location": "Belgium",
+   "remote": true,
+   "posted_at": "2026-11-04T20:36:43+00:00",
+   "description": "As a leading consulting company for SAP software, especially for SAP S/4HANA transformations and SAP Cloud solutions, CNT Management Consulting has been one of the top international consultancies for 25 years. With 550 business process experts and SAP consultants in seven European countries as well as in the USA, we successfully support the digital transformation of corporations, mid-sized companies and public organizations. CNT Management Consulting offers method and consulting expertise for all SAP products. What we offer you: Flexible working model: 100% flexible working time and location model, home office can be individually arranged. Variety of training opportunities: Active promotion of internal and external training, certifications, competence teams, and much more. International and inspiring working environment: Locations throughout Europe and in the USA, international projects and colleagues. Activities to support health and well-being: Offers that support health, sport, well-being (e.g. yoga, private supplementary insurance, and much more). Attractive compensation package: Financial security through high base salary, performance-related bonus, company car, Lease a Bike, subsidized public transport ticket. Employee participation and bonus systems: Various bonuses (e.g. headhunter bonus, sales bonus, new client bonus). Employee benefits: Variety of discounts on products or services from partner companies. Active participation and events: Contribution of your own idea",
+   "salary": "",
+   "score": 59,
+   "region": "Europa (UE)",
+   "flags": [
+    "Puede pedir más seniority"
+   ],
+   "key": "b05914fdeb6230d1",
+   "first_seen": "2026-11-05T00:52:56+00:00",
+   "is_new": true
+  },
+  {
+   "source": "rss:weworkremotely.com",
+   "company": "Toptal",
+   "title": "Operations Expert with Python for AI Supply Chain Task Design",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "posted_at": "2026-11-04T21:40:36+00:00",
+   "description": "Headquarters: Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. • Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. • Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. • Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. • Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. • Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience • 3+ years of hands-on supply chain or production planning work (not only s",
+   "salary": "",
+   "score": 48,
+   "region": "Latinoamérica",
+   "flags": [
+    "Remoto global: confirmar que acepta Argentina"
+   ],
+   "key": "9004274567a4552f",
+   "first_seen": "2026-11-05T00:52:56+00:00",
+   "is_new": true
+  },
+  {
+   "source": "rss:weworkremotely.com",
+   "company": "Super Speciosa",
+   "title": "Supply Chain & Operations Manager - LATAM",
+   "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "posted_at": "2026-11-04T21:16:31+00:00",
+   "description": "Headquarters: Mexico City, Mexico URL: http://superspeciosa.com Location: Fully remote, based in Colombia, Mexico, or Argentina Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility Reports to: CEO, working closely with the COO Commitment: Full-time; no direct reports Openings: One; start as soon as practical About us Super Organics is a portfolio of wellness and supplement brands based in Fort Lauderdale, Florida, including Super Speciosa, a kratom brand. We work with a globally distributed team and affiliated manufacturing and fulfillment operations, with a focus on quality, transparency, and reliable execution. About the role We are hiring a hands-on Supply Chain & Operations Manager to keep products in stock, manage purchasing and production commitments, and deliver measurable savings in packaging, inventory, and shipping. You will build practical planning tools and independently follow through with manufacturers, suppliers, and warehouse teams. You will also coordinate packaging artwork, product launches, and brand-side quality workflows. This role requires clear communication, sound judgment, and the ability to turn sales and inventory data into timely decisions. Inventory planning and purchasing • Build and maintain SKU-level forecasts and replenishment plans using sales history, subscriptions, promotions, growth, and seasonality. • Acc",
+   "salary": "",
+   "score": 45,
+   "region": "Latinoamérica",
+   "flags": [
+    "Remoto global: confirmar que acepta Argentina",
+    "Puede pedir más seniority"
+   ],
+   "key": "bdb5e020f0e8d196",
+   "first_seen": "2026-11-05T00:52:56+00:00",
+   "is_new": true
+  },
+  {
+   "source": "ashby:kraken.com",
+   "company": "Kraken",
+   "title": "Sales Operations Analyst - Payward Services",
+   "url": "https://jobs.ashbyhq.com/kraken.com/26678506-a9b0-431a-8675-a689d6f19137",
+   "location": "Europe, Brazil, Ireland, Sweden, Argentina, Romania, Cyprus, Switzerland, Portugal, Lithuania, Estonia, Canada, Hungary, APAC, Poland, Spain, Bulgaria, European Union",
+   "remote": true,
+   "posted_at": "2026-11-02T15:05:11.747000+00:00",
+   "description": "BUILDING THE FUTURE OF OPEN FINANCE\n\n\nPayward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.\n\n\n\n\nTHE TEAM\n\nPayward Services is an enterprise infrastructure platform that enables companies to seamlessly integrate trading, payments, funding, and digital asset services through a single unified system. It provides coordinated liquidity, custody, compliance, risk management, and settlement capabilities, reducing operational complexity for fintechs, banks, brokerages, and payment providers.\n\nAs the first dedicated Sales Operations Analyst on the team, you’ll support Business Development across PWS and xStocks so our salespeople can spend their time selling. You’ll run RFP and DDQ responses from start to finish, prepare the team for diligence meetings, qualify and route inbound leads, and keep our CRM, pipeline reporting, and customer insights accurate. You’ll report to PWS sales leadership and work closely with Business Operations, Solutions, Legal, Compliance, and Product.\n\n \n\n\nTHE OPPORTUNITY\n\n - Own RFP and DDQ responses for PWS and xStocks from kickoff through submission: triage incoming questions, route technical and compliance items to Solutions and Compliance, and make sure answers are validated before they go out\n\n - Coordinate cont",
+   "salary": "",
+   "score": 43,
+   "region": "Argentina",
+   "flags": [
+    "Pide 15+ años"
+   ],
+   "key": "76303cb036f93f4a",
+   "first_seen": "2026-11-05T00:52:56+00:00",
+   "is_new": true
+  },
+  {
+   "source": "ashby:kraken.com",
+   "company": "Kraken",
+   "title": "Sales Operations Analyst - Payward Services - Internal",
+   "url": "https://jobs.ashbyhq.com/kraken.com/a7a945ab-550f-492c-992b-2028b76ac35b",
+   "location": "Europe, APAC, European Union",
+   "remote": true,
+   "posted_at": "2026-11-02T15:05:17.391000+00:00",
+   "description": "BUILDING THE FUTURE OF OPEN FINANCE\n\n\nPayward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.\n\n\n\n\nTHE TEAM\n\nPayward Services is an enterprise infrastructure platform that enables companies to seamlessly integrate trading, payments, funding, and digital asset services through a single unified system. It provides coordinated liquidity, custody, compliance, risk management, and settlement capabilities, reducing operational complexity for fintechs, banks, brokerages, and payment providers.\n\nAs the first dedicated Sales Operations Analyst on the team, you’ll support Business Development across PWS and xStocks so our salespeople can spend their time selling. You’ll run RFP and DDQ responses from start to finish, prepare the team for diligence meetings, qualify and route inbound leads, and keep our CRM, pipeline reporting, and customer insights accurate. You’ll report to PWS sales leadership and work closely with Business Operations, Solutions, Legal, Compliance, and Product.\n\n \n\n\nTHE OPPORTUNITY\n\n - Own RFP and DDQ responses for PWS and xStocks from kickoff through submission: triage incoming questions, route technical and compliance items to Solutions and Compliance, and make sure answers are validated before they go out\n\n - Coordinate cont",
+   "salary": "",
+   "score": 40,
+   "region": "Europa (UE)",
+   "flags": [
+    "Pide 15+ años"
+   ],
+   "key": "11828ebf4552829e",
+   "first_seen": "2026-11-05T00:52:56+00:00",
+   "is_new": true
+  },
   {
    "source": "himalayas",
    "company": "Look4IT",
@@ -23,24 +119,7 @@
    "flags": [],
    "key": "8f8ecafeecc329b4",
    "first_seen": "2026-11-04T17:59:01+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "EngiFlex",
-   "title": "Functioneel Analist Supply Chain en Forecasting (Freelance kan)",
-   "url": "https://himalayas.app/companies/engiflex/jobs/functioneel-analist-supply-chain-en-forecasting-freelance-kan?utm_source=api",
-   "location": "Belgium",
-   "remote": true,
-   "posted_at": "2026-11-04T12:33:56+00:00",
-   "description": "📋 Taken en verantwoordelijkheden Het energielandschap verandert snel. Als hands-on functioneel analist vorm je de schakel tussen business, supply chain, data en technologie. Je vertrekt vanuit de bestaande situatie: operationele processen, businesskennis en data die verspreid zijn over verschillende systemen en Excelbestanden. Je duikt tot op het niveau van de brondata, ontleedt bestaande Excelmodellen en brengt de achterliggende businesslogica in kaart. Vervolgens vertaal je deze inzichten naar een robuust en toekomstgericht datamodel voor nieuwe analytische en voorspellende toepassingen. De focus ligt niet alleen op het rapporteren van historische cijfers. Je gebruikt data en kennis van supply chain om scenario's door te rekenen en toekomstige behoeften, volumes en capaciteiten beter te voorspellen. Concreet: Je analyseert bestaande Excelbestanden en databronnen tot op het laagste relevante detailniveau. Je brengt supply-chainprocessen, assumpties, parameters en businesslogica in kaart en bevraagt deze kritisch. Je consolideert versnipperde en ongestructureerde data en brengt er structuur in. Je vertaalt informatie uit Excel naar gestructureerde data, een datamodel, analytics en forecasting. Je ontwerpt een logisch, performant en herbruikbaar datamodel. Je werkt mee aan de functionele en data-architectuur van de toekomstige oplossing en documenteert die in een functionele blueprint. Je vertaalt voorspellende modellen en scenarioanalyses naar een praktisch bruikbare tool voo",
-   "salary": "",
-   "score": 41,
-   "region": "Europa (UE)",
-   "flags": [],
-   "key": "1693ca3621a6d4b2",
-   "first_seen": "2026-11-04T17:59:01+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "workday:chevron",
@@ -49,7 +128,7 @@
    "url": "https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-Finance-IT-Analyst_R000074822",
    "location": "Buenos Aires, Buenos Aires, Argentina",
    "remote": null,
-   "posted_at": "2026-11-02T17:59:02.947009+00:00",
+   "posted_at": "2026-11-03T00:52:57.692038+00:00",
    "description": "",
    "salary": "",
    "score": 70,
@@ -66,7 +145,7 @@
    "url": "https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-S4-HANA-MM---EAM---IAM-Functional-Analys_R000072051",
    "location": "Buenos Aires, Buenos Aires, Argentina",
    "remote": null,
-   "posted_at": "2026-11-02T17:59:02.947009+00:00",
+   "posted_at": "2026-11-03T00:52:57.692038+00:00",
    "description": "",
    "salary": "",
    "score": 70,
@@ -119,7 +198,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1",
    "location": "Buenos Aires (Alem)",
    "remote": null,
-   "posted_at": "2026-11-03T17:59:02.789720+00:00",
+   "posted_at": "2026-11-04T00:52:57.689094+00:00",
    "description": "",
    "salary": "",
    "score": 60,
@@ -192,7 +271,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-05T17:59:02.789720+00:00",
+   "posted_at": "2026-10-06T00:52:57.689094+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -203,32 +282,13 @@
    "is_new": false
   },
   {
-   "source": "ashby:elevenlabs",
-   "company": "Elevenlabs",
-   "title": "FP&A Lead",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba",
-   "location": "United Kingdom, Belgium, Poland, France",
-   "remote": true,
-   "posted_at": "2026-11-01T22:19:56.067000+00:00",
-   "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is a",
-   "salary": "",
-   "score": 48,
-   "region": "Europa (UE)",
-   "flags": [
-    "Puede pedir más seniority"
-   ],
-   "key": "780d2c767bdc482e",
-   "first_seen": "2026-11-02T22:12:44+00:00",
-   "is_new": false
-  },
-  {
    "source": "workday:assurant",
    "company": "Assurant",
    "title": "Lead Reinsurance Data Analyst",
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-10-26T17:59:02.789720+00:00",
+   "posted_at": "2026-10-27T00:52:57.689094+00:00",
    "description": "",
    "salary": "",
    "score": 47,
@@ -243,19 +303,19 @@
   {
    "source": "ashby:elevenlabs",
    "company": "Elevenlabs",
-   "title": "Partnerships Strategy & Operations",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/36b52143-1ed2-4e60-89c4-84e09d856658",
-   "location": "United States, United Kingdom",
+   "title": "FP&A Lead",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba",
+   "location": "United Kingdom, Belgium, Poland, France",
    "remote": true,
-   "posted_at": "2026-10-09T14:51:54.125000+00:00",
+   "posted_at": "2026-11-01T22:19:56.067000+00:00",
    "description": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\n\nWe have expanded from voice into three main platforms:\n\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n\n - ElevenAPI gives developers access to our leading AI audio foundational models.\n\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\n\n\n\n\nHOW WE WORK\n\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is a",
    "salary": "",
-   "score": 42,
-   "region": "Reino Unido",
+   "score": 43,
+   "region": "Europa (UE)",
    "flags": [
-    "Requiere visa UK"
+    "Puede pedir más seniority"
    ],
-   "key": "bf94449138cd8982",
+   "key": "780d2c767bdc482e",
    "first_seen": "2026-11-02T22:12:44+00:00",
    "is_new": false
   },
@@ -276,6 +336,23 @@
    ],
    "key": "2c2fa2610f78f511",
    "first_seen": "2026-11-02T22:12:44+00:00",
+   "is_new": false
+  },
+  {
+   "source": "himalayas",
+   "company": "EngiFlex",
+   "title": "Functioneel Analist Supply Chain en Forecasting (Freelance kan)",
+   "url": "https://himalayas.app/companies/engiflex/jobs/functioneel-analist-supply-chain-en-forecasting-freelance-kan?utm_source=api",
+   "location": "Belgium",
+   "remote": true,
+   "posted_at": "2026-11-04T12:33:56+00:00",
+   "description": "📋 Taken en verantwoordelijkheden Het energielandschap verandert snel. Als hands-on functioneel analist vorm je de schakel tussen business, supply chain, data en technologie. Je vertrekt vanuit de bestaande situatie: operationele processen, businesskennis en data die verspreid zijn over verschillende systemen en Excelbestanden. Je duikt tot op het niveau van de brondata, ontleedt bestaande Excelmodellen en brengt de achterliggende businesslogica in kaart. Vervolgens vertaal je deze inzichten naar een robuust en toekomstgericht datamodel voor nieuwe analytische en voorspellende toepassingen. De focus ligt niet alleen op het rapporteren van historische cijfers. Je gebruikt data en kennis van supply chain om scenario's door te rekenen en toekomstige behoeften, volumes en capaciteiten beter te voorspellen. Concreet: Je analyseert bestaande Excelbestanden en databronnen tot op het laagste relevante detailniveau. Je brengt supply-chainprocessen, assumpties, parameters en businesslogica in kaart en bevraagt deze kritisch. Je consolideert versnipperde en ongestructureerde data en brengt er structuur in. Je vertaalt informatie uit Excel naar gestructureerde data, een datamodel, analytics en forecasting. Je ontwerpt een logisch, performant en herbruikbaar datamodel. Je werkt mee aan de functionele en data-architectuur van de toekomstige oplossing en documenteert die in een functionele blueprint. Je vertaalt voorspellende modellen en scenarioanalyses naar een praktisch bruikbare tool voo",
+   "salary": "",
+   "score": 41,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "1693ca3621a6d4b2",
+   "first_seen": "2026-11-04T17:59:01+00:00",
    "is_new": false
   },
   {
@@ -319,7 +396,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Operations-Analyst_R-115107-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-19T17:59:02.789720+00:00",
+   "posted_at": "2026-10-20T00:52:57.689094+00:00",
    "description": "",
    "salary": "",
    "score": 37,
@@ -336,7 +413,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Financial-Analyst_R-112662-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-13T17:59:02.789720+00:00",
+   "posted_at": "2026-10-14T00:52:57.689094+00:00",
    "description": "",
    "salary": "",
    "score": 37,
