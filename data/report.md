@@ -1,22 +1,26 @@
-# Radar de Empleos — 2026-11-07 00:06 UTC
+# Radar de Empleos — 2026-11-07 16:24 UTC
 
-Fuentes OK: 75/75 · Candidatos: 23 · Nuevos en esta corrida: 3
+Fuentes OK: 75/75 · Candidatos: 27 · Nuevos en esta corrida: 7
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 67 | [SAP FICO Consultant – Revenue Accounting](https://himalayas.app/companies/talan/jobs/sap-fico-consultant-revenue-accounting-3895860637?utm_source=api) | Talan | Europa (UE) | Spain |
-| ✅ | 59 | [Senior Business Analyst Mining (100% remote)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-mining-100-remote-6067879451?utm_source=api) | Tether Operations Limited | Europa (UE) | Netherlands |
-| ✅ | 58 | [Associate Procurement Specialist](https://himalayas.app/companies/medtronic/jobs/associate-procurement-specialist?utm_source=api) | Medtronic | Reino Unido | United Kingdom |
+| ✅ | 66 | [Business Analyst - Advanced - Remote from EU -  Deadline 11/11/26](https://himalayas.app/companies/almaviva/jobs/business-analyst-advanced-remote-from-eu-deadline-11-11-26?utm_source=api) | AlmavivA de Belgique | Europa (UE) | Albania, Andorra, Austria, Belarus, Belg |
+| ✅ | 61 | [Energy Consultant for the Balkan market - Procurement and Transition](https://himalayas.app/companies/e-c/jobs/energy-consultant-for-the-balkan-market-procurement-and-transition?utm_source=api) | E&C | Europa (UE) | Croatia |
+| ✅ | 59 | [Senior Business Analyst Mining (100% remote)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-mining-100-remote-9108768152?utm_source=api) | Tether Operations Limited | Europa (UE) | Belgium |
+| ✅ | 59 | [Senior Business Analyst Mining (100% remote)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-mining-100-remote-4653078727?utm_source=api) | Tether Operations Limited | Europa (UE) | Spain |
+| ✅ | 58 | [Principle Strategic Sourcing Specialist](https://himalayas.app/companies/medtronic/jobs/principle-strategic-sourcing-specialist?utm_source=api) | Medtronic | Reino Unido | United Kingdom |
+| ✅ | 57 | [Energy Consultant with French - Procurement and Transition](https://himalayas.app/companies/e-c/jobs/energy-consultant-with-french-procurement-and-transition?utm_source=api) | E&C | Europa (UE) | Spain |
+| ✅ | 50 | [Senior Business Analyst Mining (100% remote)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-mining-100-remote-6205999695?utm_source=api) | Tether Operations Limited | Reino Unido | United Kingdom |
 |  | 73 | [Billing Operations Manager](https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613) | Elevenlabs | Europa (UE) | London, Ireland, New York, Poland, Unite |
+|  | 67 | [SAP FICO Consultant – Revenue Accounting](https://himalayas.app/companies/talan/jobs/sap-fico-consultant-revenue-accounting-3895860637?utm_source=api) | Talan | Europa (UE) | Spain |
 |  | 67 | [Procurement Specialist](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Anzoategui-Venezuela/Procurement-Specialist_R000074896) | Chevron | Europa (UE) | Barcelona, Anzoategui, Venezuela |
 |  | 65 | [SAP Finance IT Analyst](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-Finance-IT-Analyst_R000074822) | Chevron | Argentina | Buenos Aires, Buenos Aires, Argentina |
 |  | 65 | [SAP S4/HANA MM / EAM & IAM Functional Analys](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-S4-HANA-MM---EAM---IAM-Functional-Analys_R000072051) | Chevron | Argentina | Buenos Aires, Buenos Aires, Argentina |
-|  | 64 | [Senior Finance Operations Analyst](https://himalayas.app/companies/intapp/jobs/senior-finance-operations-analyst?utm_source=api) | Intapp | Europa (UE) | Ireland, United Kingdom |
 |  | 63 | [Revenue Operations Analyst (London)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
 |  | 62 | [BI Analyst](https://jobs.lever.co/RyzLabs/98392315-a004-4763-a546-800d35c8566c) | RyzLabs | Argentina | Buenos Aires, AR |
-|  | 60 | [Senior Business Intelligence Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1) | Assurant | Argentina | Buenos Aires (Alem) |
 |  | 59 | [Senior Product Data Analyst](https://careers.cookunity.com/open-roles?gh_jid=8019593003) | CookUnity | Latinoamérica | Latam (Remote), Latam (Remote) |
 |  | 55 | [Associate Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359) | Assurant | Argentina | Buenos Aires (Butty) |
+|  | 55 | [Senior Business Intelligence Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1) | Assurant | Argentina | Buenos Aires (Alem) |
 |  | 48 | [Operations Expert with Python for AI Supply Chain Task Design](https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design) | Toptal | Latinoamérica | Anywhere in the World |
 |  | 47 | [Lead Reinsurance Data Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1) | Assurant | Argentina | Argentina Virtual |
 |  | 42 | [Vertical Sales Strategy and Operations](https://jobs.ashbyhq.com/ElevenLabs/03e6b7b2-3337-47ac-a230-2d8390a8cb4e) | Elevenlabs | Reino Unido | United States, United Kingdom |
