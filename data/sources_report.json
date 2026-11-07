@@ -13,7 +13,7 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 371
+  "jobs": 370
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 98
+  "jobs": 100
  },
  "ashby:linear": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 171
+  "jobs": 169
  },
  "ashby:runway": {
   "ok": true,
@@ -153,7 +153,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 924
+  "jobs": 922
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 765
+  "jobs": 766
  },
  "himalayas:SAP": {
   "ok": true,
@@ -289,7 +289,7 @@
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 127
+  "jobs": 126
  },
  "workday:chevron": {
   "ok": true,
