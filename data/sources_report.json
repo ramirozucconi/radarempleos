@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 255
+  "jobs": 253
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 378
+  "jobs": 377
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -293,7 +293,7 @@
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 75
+  "jobs": 74
  },
  "workday:dow": {
   "ok": true,
