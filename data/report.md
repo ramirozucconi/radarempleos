@@ -1,14 +1,18 @@
-# Radar de Empleos — 2026-11-09 20:43 UTC
+# Radar de Empleos — 2026-11-10 14:59 UTC
 
-Fuentes OK: 75/75 · Candidatos: 19 · Nuevos en esta corrida: 4
+Fuentes OK: 75/75 · Candidatos: 23 · Nuevos en esta corrida: 8
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 74 | [Senior Business Analyst](https://himalayas.app/companies/description-ciklum/jobs/senior-business-analyst-6728289917?utm_source=api) | Description Ciklum | Europa (UE) | Bulgaria |
-| ✅ | 70 | [BI Data Analyst](https://himalayas.app/companies/growth-leads/jobs/bi-data-analyst-2785434519?utm_source=api) | Growth Leads | Europa (UE) | Malta |
-| ✅ | 70 | [SAP Key User and Support](https://himalayas.app/companies/sp-audit/jobs/sap-key-user-and-support?utm_source=api) | SP Audit | Europa (UE) | Bulgaria |
-| ✅ | 67 | [Consulenti SAP](https://himalayas.app/companies/software-talent/jobs/consulenti-sap?utm_source=api) | Software Talent | Europa (UE) | Italy |
-|  | 68 | [Billing Operations Manager](https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613) | Elevenlabs | Europa (UE) | London, Ireland, New York, Poland, Unite |
+| ✅ | 73 | [Billing Operations Manager](https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613) | Elevenlabs | Europa (UE) | London, Ireland, Australia, New York, Po |
+| ✅ | 73 | [Procurement and Purchase Order Processor (Argentina)](https://himalayas.app/companies/operationsarmy/jobs/procurement-and-purchase-order-processor-argentina?utm_source=api) | OperationsArmy | Argentina | Argentina |
+| ✅ | 65 | [Commercial Lighting Decision-Makers: Feedback on Supplier Selection](https://himalayas.app/companies/terac/jobs/commercial-lighting-decision-makers-feedback-on-supplier-selection?utm_source=api) | Terac | Europa (UE) | Germany |
+| ✅ | 63 | [Senior SAP HCM Consultant](https://himalayas.app/companies/it-hr-recruitment-agency/jobs/senior-sap-hcm-consultant?utm_source=api) | IT.HR Recruitment Agency | Europa (UE) | Poland |
+| ✅ | 58 | [Procurement Enablement & Communications Lead / Bilingual / Remote](https://himalayas.app/companies/iron-mountain/jobs/procurement-enablement-communications-lead-bilingual-remote?utm_source=api) | Iron Mountain | Europa (UE) | Colombia, India, Romania |
+| ✅ | 52 | [Senior SAP Logistics Project Manager in Pharma](https://himalayas.app/companies/fusion-consulting/jobs/senior-sap-logistics-project-manager-in-pharma-5142607877?utm_source=api) | Fusion Consulting | Europa (UE) | Hungary |
+| ✅ | 52 | [Senior SAP Logistics Project Manager in Pharma](https://himalayas.app/companies/fusion-consulting/jobs/senior-sap-logistics-project-manager-in-pharma?utm_source=api) | Fusion Consulting | Europa (UE) | Spain |
+| ✅ | 52 | [SAP O2C Functional Consultant](https://himalayas.app/companies/bosch-group/jobs/sap-o2c-functional-consultant?utm_source=api) | Bosch Group | Europa (UE) | Romania |
+|  | 70 | [SAP Key User and Support](https://himalayas.app/companies/sp-audit/jobs/sap-key-user-and-support?utm_source=api) | SP Audit | Europa (UE) | Bulgaria |
 |  | 65 | [SAP Finance IT Analyst](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-Finance-IT-Analyst_R000074822) | Chevron | Argentina | Buenos Aires, Buenos Aires, Argentina |
 |  | 65 | [SAP S4/HANA MM / EAM & IAM Functional Analys](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-S4-HANA-MM---EAM---IAM-Functional-Analys_R000072051) | Chevron | Argentina | Buenos Aires, Buenos Aires, Argentina |
 |  | 63 | [Revenue Operations Analyst (London)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
@@ -18,8 +22,8 @@ Fuentes OK: 75/75 · Candidatos: 19 · Nuevos en esta corrida: 4
 |  | 53 | [Treasury Specialist (Argentina) ARG124-FIN](https://himalayas.app/companies/okto-payments/jobs/treasury-specialist-argentina-arg124-fin?utm_source=api) | OKTO PAYMENTS | Argentina | Argentina |
 |  | 47 | [Lead Reinsurance Data Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1) | Assurant | Argentina | Argentina Virtual |
 |  | 39 | [Business Operations Associate](https://careers.cookunity.com/open-roles?gh_jid=8041394003) | CookUnity | Argentina | Buenos Aires, Buenos Aires, Argentina, A |
-|  | 38 | [Sales Operations Analyst - Payward Services](https://jobs.ashbyhq.com/kraken.com/26678506-a9b0-431a-8675-a689d6f19137) | Kraken | Argentina | Europe, Brazil, Ireland, Sweden, Argenti |
 |  | 38 | [Senior Financial Analyst (FP&A) - Entertainment ](https://jobs.ashbyhq.com/truelogic/b37a890c-d31d-4bf9-a8fc-e501e986e364) | Truelogic | Latinoamérica | LatAm, Panama |
+|  | 38 | [Sales Operations Analyst - Payward Services](https://jobs.ashbyhq.com/kraken.com/26678506-a9b0-431a-8675-a689d6f19137) | Kraken | Argentina | Europe, Brazil, Ireland, Sweden, Argenti |
 |  | 37 | [Associate Operations Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Operations-Analyst_R-115107-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 37 | [Financial Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Financial-Analyst_R-112662-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 35 | [Product Operations Analyst (Customer Activations)](https://ripple.com/careers/all-jobs/job/8328050?gh_jid=8328050) | Ripple  | Reino Unido | London, UK, Singapore |
