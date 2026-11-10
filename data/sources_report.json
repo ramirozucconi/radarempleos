@@ -13,7 +13,7 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 377
+  "jobs": 376
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 99
+  "jobs": 100
  },
  "ashby:linear": {
   "ok": true,
@@ -29,7 +29,7 @@
  },
  "ashby:lovable": {
   "ok": true,
-  "jobs": 78
+  "jobs": 77
  },
  "ashby:mercury": {
   "ok": true,
@@ -45,15 +45,15 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 153
+  "jobs": 152
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 826
+  "jobs": 828
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 136
+  "jobs": 137
  },
  "ashby:pinecone": {
   "ok": true,
@@ -61,7 +61,7 @@
  },
  "ashby:posthog": {
   "ok": true,
-  "jobs": 10
+  "jobs": 9
  },
  "ashby:ramp": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 87
+  "jobs": 77
  },
  "ashby:vercel": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 251
+  "jobs": 249
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -133,7 +133,7 @@
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 271
+  "jobs": 276
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 149
+  "jobs": 150
  },
  "greenhouse:databricks": {
   "ok": true,
@@ -157,11 +157,11 @@
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 34
+  "jobs": 35
  },
  "greenhouse:fireblocks": {
   "ok": true,
-  "jobs": 26
+  "jobs": 25
  },
  "greenhouse:gemini": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 384
+  "jobs": 385
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -185,7 +185,7 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 120
+  "jobs": 119
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 773
+  "jobs": 774
  },
  "himalayas:SAP": {
   "ok": true,
@@ -237,7 +237,7 @@
  },
  "lever:tryjeeves": {
   "ok": true,
-  "jobs": 71
+  "jobs": 72
  },
  "remotive:SAP": {
   "ok": true,
