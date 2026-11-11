@@ -9,15 +9,15 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 129
+  "jobs": 131
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 376
+  "jobs": 373
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 89
+  "jobs": 92
  },
  "ashby:langchain": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "ashby:linear": {
   "ok": true,
-  "jobs": 32
+  "jobs": 33
  },
  "ashby:lovable": {
   "ok": true,
@@ -41,19 +41,19 @@
  },
  "ashby:n8n": {
   "ok": true,
-  "jobs": 49
+  "jobs": 50
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 152
+  "jobs": 156
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 828
+  "jobs": 826
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 137
+  "jobs": 135
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 172
+  "jobs": 176
  },
  "ashby:runway": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "ashby:supabase": {
   "ok": true,
-  "jobs": 75
+  "jobs": 74
  },
  "ashby:synthesia": {
   "ok": true,
@@ -88,52 +88,52 @@
   "jobs": 0
  },
  "getonbrd:SAP": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=SAP&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:business analyst": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=business+analyst&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:compras": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=compras&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:data analyst": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=data+analyst&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:finanzas": {
-  "ok": true,
-  "jobs": 49
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=finanzas&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:operaciones": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=operaciones&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:power bi": {
-  "ok": true,
-  "jobs": 50
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=power+bi&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "getonbrd:procurement": {
-  "ok": true,
-  "jobs": 5
+  "ok": false,
+  "error": "https://www.getonbrd.com/api/v0/search/jobs?query=procurement&per_page=50&expand=%5B%22company%22%5D: HTTP Error 403: Forbidden"
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 249
+  "jobs": 250
  },
  "greenhouse:airtable": {
   "ok": true,
-  "jobs": 6
+  "jobs": 8
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 675
+  "jobs": 679
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 276
+  "jobs": 279
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -153,19 +153,19 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 916
+  "jobs": 920
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 35
+  "jobs": 36
  },
  "greenhouse:fireblocks": {
   "ok": true,
-  "jobs": 25
+  "jobs": 23
  },
  "greenhouse:gemini": {
   "ok": true,
-  "jobs": 27
+  "jobs": 29
  },
  "greenhouse:nubank": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 774
+  "jobs": 778
  },
  "himalayas:SAP": {
   "ok": true,
@@ -237,7 +237,7 @@
  },
  "lever:tryjeeves": {
   "ok": true,
-  "jobs": 72
+  "jobs": 76
  },
  "remotive:SAP": {
   "ok": true,
@@ -285,7 +285,7 @@
  },
  "workday:assurant": {
   "ok": true,
-  "jobs": 67
+  "jobs": 68
  },
  "workday:bakerhughes": {
   "ok": true,
@@ -297,6 +297,6 @@
  },
  "workday:dow": {
   "ok": true,
-  "jobs": 141
+  "jobs": 140
  }
 }
