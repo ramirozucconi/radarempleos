@@ -1,13 +1,12 @@
-# Radar de Empleos — 2026-11-12 01:53 UTC
+# Radar de Empleos — 2026-11-12 18:18 UTC
 
-Fuentes OK: 75/75 · Candidatos: 17 · Nuevos en esta corrida: 4
+Fuentes OK: 75/75 · Candidatos: 16 · Nuevos en esta corrida: 3
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 65 | [Data Analyst](https://himalayas.app/companies/necsws/jobs/data-analyst?utm_source=api) | NECSWS | Reino Unido | United Kingdom |
-| ✅ | 60 | [Procurement and Supply Chain Lead (M/F)](https://himalayas.app/companies/thrustme/jobs/procurement-and-supply-chain-lead-m-f?utm_source=api) | ThrustMe | Europa (UE) | France |
-| ✅ | 57 | [EMEA | Senior Data Business Analyst / Product Owner (Contractor)](https://himalayas.app/companies/infinite-lambda/jobs/emea-senior-data-business-analyst-product-owner-contractor?utm_source=api) | Infinite Lambda | Europa (UE) | Bulgaria, Hungary, Portugal, Romania, Sl |
-| ✅ | 46 | [Senior Vendor Manager](https://himalayas.app/companies/iherb-com/jobs/senior-vendor-manager?utm_source=api) | iHerb | Europa (UE) | Netherlands |
+| ✅ | 65 | [Strategic Sourcing Analyst](https://himalayas.app/companies/tether-operations-limited/jobs/strategic-sourcing-analyst-9942211958?utm_source=api) | Tether Operations Limited | Europa (UE) | Italy |
+| ✅ | 65 | [Strategic Sourcing Analyst](https://himalayas.app/companies/tether-operations-limited/jobs/strategic-sourcing-analyst-8904479811?utm_source=api) | Tether Operations Limited | Europa (UE) | Ireland |
+| ✅ | 52 | [IT Sourcing Manager II](https://himalayas.app/companies/avantor/jobs/it-sourcing-manager-ii?utm_source=api) | Avantor | Europa (UE) | Czechia |
 |  | 63 | [Revenue Operations Analyst (Europe)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
 |  | 62 | [Procurement Specialist](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Anzoategui-Venezuela/Procurement-Specialist_R000074896) | Chevron | Europa (UE) | Barcelona, Anzoategui, Venezuela |
 |  | 60 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116271-1) | Assurant | Argentina | Buenos Aires (Butty) |
