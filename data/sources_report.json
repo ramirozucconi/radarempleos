@@ -1,7 +1,7 @@
 {
  "ashby:Deepgram": {
   "ok": true,
-  "jobs": 63
+  "jobs": 62
  },
  "ashby:deel": {
   "ok": true,
@@ -9,15 +9,15 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 130
+  "jobs": 127
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 378
+  "jobs": 376
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 97
+  "jobs": 96
  },
  "ashby:langchain": {
   "ok": true,
@@ -29,7 +29,7 @@
  },
  "ashby:lovable": {
   "ok": true,
-  "jobs": 77
+  "jobs": 78
  },
  "ashby:mercury": {
   "ok": true,
@@ -45,15 +45,15 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 160
+  "jobs": 167
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 826
+  "jobs": 831
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 140
+  "jobs": 143
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 180
+  "jobs": 179
  },
  "ashby:runway": {
   "ok": true,
@@ -77,11 +77,11 @@
  },
  "ashby:synthesia": {
   "ok": true,
-  "jobs": 32
+  "jobs": 31
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 69
+  "jobs": 67
  },
  "ashby:vercel": {
   "ok": true,
@@ -89,23 +89,23 @@
  },
  "getonbrd:SAP": {
   "ok": true,
-  "jobs": 50
+  "jobs": 26
  },
  "getonbrd:business analyst": {
   "ok": true,
-  "jobs": 50
+  "jobs": 21
  },
  "getonbrd:compras": {
   "ok": true,
-  "jobs": 50
+  "jobs": 2
  },
  "getonbrd:data analyst": {
   "ok": true,
-  "jobs": 50
+  "jobs": 11
  },
  "getonbrd:finanzas": {
   "ok": true,
-  "jobs": 49
+  "jobs": 13
  },
  "getonbrd:operaciones": {
   "ok": true,
@@ -113,15 +113,15 @@
  },
  "getonbrd:power bi": {
   "ok": true,
-  "jobs": 50
+  "jobs": 29
  },
  "getonbrd:procurement": {
   "ok": true,
-  "jobs": 6
+  "jobs": 0
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 251
+  "jobs": 249
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 672
+  "jobs": 671
  },
  "greenhouse:brex": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 271
+  "jobs": 266
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -157,7 +157,7 @@
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 32
+  "jobs": 33
  },
  "greenhouse:fireblocks": {
   "ok": true,
@@ -173,11 +173,11 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 388
+  "jobs": 392
  },
  "greenhouse:payoneer": {
   "ok": true,
-  "jobs": 97
+  "jobs": 101
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -185,11 +185,11 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 112
+  "jobs": 111
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "jobs": 170
+  "jobs": 171
  },
  "greenhouse:stripe": {
   "ok": true,
@@ -225,7 +225,7 @@
  },
  "lever:RyzLabs": {
   "ok": true,
-  "jobs": 47
+  "jobs": 44
  },
  "lever:binance": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 81
+  "jobs": 84
  },
  "lever:tryjeeves": {
   "ok": true,
@@ -241,43 +241,43 @@
  },
  "remotive:SAP": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:accounts payable": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:billing": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:business analyst": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:data analyst": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:finance operations": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:power bi": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:procurement": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:purchasing": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "remotive:revenue operations": {
   "ok": true,
-  "jobs": 14
+  "jobs": 16
  },
  "rss:https://weworkremotely.com/remote-jobs.rss": {
   "ok": true,
@@ -285,15 +285,15 @@
  },
  "workday:assurant": {
   "ok": true,
-  "jobs": 69
+  "jobs": 74
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 127
+  "jobs": 125
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 87
+  "jobs": 88
  },
  "workday:dow": {
   "ok": true,
