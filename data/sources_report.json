@@ -9,19 +9,19 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 129
+  "jobs": 130
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 381
+  "jobs": 378
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 95
+  "jobs": 97
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 101
+  "jobs": 100
  },
  "ashby:linear": {
   "ok": true,
@@ -45,15 +45,15 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 161
+  "jobs": 160
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 829
+  "jobs": 826
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 136
+  "jobs": 140
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 176
+  "jobs": 180
  },
  "ashby:runway": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "ashby:supabase": {
   "ok": true,
-  "jobs": 76
+  "jobs": 77
  },
  "ashby:synthesia": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 68
+  "jobs": 69
  },
  "ashby:vercel": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 670
+  "jobs": 672
  },
  "greenhouse:brex": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 272
+  "jobs": 271
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -153,11 +153,11 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 907
+  "jobs": 906
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 33
+  "jobs": 32
  },
  "greenhouse:fireblocks": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "greenhouse:gemini": {
   "ok": true,
-  "jobs": 29
+  "jobs": 28
  },
  "greenhouse:nubank": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 387
+  "jobs": 388
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -185,7 +185,7 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 116
+  "jobs": 112
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 784
+  "jobs": 785
  },
  "himalayas:SAP": {
   "ok": true,

@@ -1,17 +1,21 @@
-# Radar de Empleos — 2026-11-12 18:18 UTC
+# Radar de Empleos — 2026-11-13 01:03 UTC
 
-Fuentes OK: 75/75 · Candidatos: 16 · Nuevos en esta corrida: 3
+Fuentes OK: 75/75 · Candidatos: 20 · Nuevos en esta corrida: 6
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 65 | [Strategic Sourcing Analyst](https://himalayas.app/companies/tether-operations-limited/jobs/strategic-sourcing-analyst-9942211958?utm_source=api) | Tether Operations Limited | Europa (UE) | Italy |
-| ✅ | 65 | [Strategic Sourcing Analyst](https://himalayas.app/companies/tether-operations-limited/jobs/strategic-sourcing-analyst-8904479811?utm_source=api) | Tether Operations Limited | Europa (UE) | Ireland |
-| ✅ | 52 | [IT Sourcing Manager II](https://himalayas.app/companies/avantor/jobs/it-sourcing-manager-ii?utm_source=api) | Avantor | Europa (UE) | Czechia |
+| ✅ | 71 | [Técnico/a de Gestión de Compras IT y Licenciamiento de Software](https://himalayas.app/companies/tecdata-engineering/jobs/tecnico-a-de-gestion-de-compras-it-y-licenciamiento-de-software?utm_source=api) | TECDATA ENGINEERING | Europa (UE) | Spain |
+| ✅ | 67 | [Senior EAM Consultant* – S/4HANA | Cloud | Innovation](https://himalayas.app/companies/evora-it-solutions/jobs/senior-eam-consultant-s-4hana-cloud-innovation?utm_source=api) | Evora IT Solutions | Europa (UE) | Germany |
+| ✅ | 65 | [Strategic Sourcing Analyst](https://himalayas.app/companies/tether-operations-limited/jobs/strategic-sourcing-analyst-525401713?utm_source=api) | Tether Operations Limited | Europa (UE) | Poland |
+| ✅ | 54 | [Senior SAP AMS Consultant (SAP PP)](https://himalayas.app/companies/the-config-team/jobs/senior-sap-ams-consultant-sap-pp?utm_source=api) | The Config Team | Reino Unido | United Kingdom |
+| ✅ | 50 | [Vendor Scoping Lead - EMEA FSP](https://himalayas.app/companies/lifelancer/jobs/vendor-scoping-lead-emea-fsp?utm_source=api) | Lifelancer | Reino Unido | United Kingdom |
+| ✅ | 45 | [Procurement Lead](https://jobs.ashbyhq.com/supabase/603a39a9-7cbd-4a57-b27e-daae86885d82) | Supabase | Latinoamérica | Remote, Global |
 |  | 63 | [Revenue Operations Analyst (Europe)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
 |  | 62 | [Procurement Specialist](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Anzoategui-Venezuela/Procurement-Specialist_R000074896) | Chevron | Europa (UE) | Barcelona, Anzoategui, Venezuela |
 |  | 60 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116271-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Associate Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Senior Business Intelligence Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1) | Assurant | Argentina | Buenos Aires (Alem) |
+|  | 52 | [IT Sourcing Manager II](https://himalayas.app/companies/avantor/jobs/it-sourcing-manager-ii?utm_source=api) | Avantor | Europa (UE) | Czechia |
 |  | 47 | [Treasury Specialist](https://job-boards.greenhouse.io/ebanx/jobs/8200749003) | EBANX | Argentina | São Paulo, Brazil - Buenos Aires, Argent |
 |  | 47 | [Lead Reinsurance Data Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1) | Assurant | Argentina | Argentina Virtual |
 |  | 43 | [Sales Operations Analyst - Payward Services](https://jobs.ashbyhq.com/kraken.com/26678506-a9b0-431a-8675-a689d6f19137) | Kraken | Argentina | Europe, Brazil, Ireland, Sweden, Argenti |
