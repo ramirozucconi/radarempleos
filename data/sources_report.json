@@ -1,7 +1,7 @@
 {
  "ashby:Deepgram": {
   "ok": true,
-  "jobs": 62
+  "jobs": 64
  },
  "ashby:deel": {
   "ok": true,
@@ -9,11 +9,11 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 127
+  "jobs": 128
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 376
+  "jobs": 382
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -29,7 +29,7 @@
  },
  "ashby:lovable": {
   "ok": true,
-  "jobs": 78
+  "jobs": 79
  },
  "ashby:mercury": {
   "ok": true,
@@ -49,11 +49,11 @@
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 831
+  "jobs": 837
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 143
+  "jobs": 141
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 179
+  "jobs": 180
  },
  "ashby:runway": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 249
+  "jobs": 248
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 671
+  "jobs": 668
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 283
+  "jobs": 286
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 266
+  "jobs": 265
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -149,15 +149,15 @@
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 147
+  "jobs": 150
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 906
+  "jobs": 896
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 33
+  "jobs": 34
  },
  "greenhouse:fireblocks": {
   "ok": true,
@@ -189,11 +189,11 @@
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "jobs": 171
+  "jobs": 170
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 785
+  "jobs": 786
  },
  "himalayas:SAP": {
   "ok": true,
@@ -233,11 +233,11 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 84
+  "jobs": 85
  },
  "lever:tryjeeves": {
   "ok": true,
-  "jobs": 76
+  "jobs": 77
  },
  "remotive:SAP": {
   "ok": true,
@@ -284,19 +284,19 @@
   "jobs": 100
  },
  "workday:assurant": {
-  "ok": true,
-  "jobs": 74
+  "ok": false,
+  "error": "https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/assurant_careers/jobs: HTTP Error 521: <none>"
  },
  "workday:bakerhughes": {
-  "ok": true,
-  "jobs": 125
+  "ok": false,
+  "error": "https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs: HTTP Error 521: <none>"
  },
  "workday:chevron": {
-  "ok": true,
-  "jobs": 88
+  "ok": false,
+  "error": "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs: HTTP Error 521: <none>"
  },
  "workday:dow": {
-  "ok": true,
-  "jobs": 140
+  "ok": false,
+  "error": "https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs: HTTP Error 521: <none>"
  }
 }
