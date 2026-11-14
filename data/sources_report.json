@@ -13,7 +13,7 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 387
+  "jobs": 388
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -49,11 +49,11 @@
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 838
+  "jobs": 839
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 141
+  "jobs": 140
  },
  "ashby:pinecone": {
   "ok": true,
@@ -113,7 +113,7 @@
  },
  "getonbrd:power bi": {
   "ok": true,
-  "jobs": 28
+  "jobs": 26
  },
  "getonbrd:procurement": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 669
+  "jobs": 670
  },
  "greenhouse:brex": {
   "ok": true,
@@ -289,7 +289,7 @@
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 125
+  "jobs": 123
  },
  "workday:chevron": {
   "ok": true,
