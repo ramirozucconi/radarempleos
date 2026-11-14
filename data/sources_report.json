@@ -13,7 +13,7 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 382
+  "jobs": 387
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 100
+  "jobs": 103
  },
  "ashby:linear": {
   "ok": true,
@@ -45,11 +45,11 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 167
+  "jobs": 166
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 837
+  "jobs": 838
  },
  "ashby:perplexity": {
   "ok": true,
@@ -113,7 +113,7 @@
  },
  "getonbrd:power bi": {
   "ok": true,
-  "jobs": 29
+  "jobs": 28
  },
  "getonbrd:procurement": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 248
+  "jobs": 247
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 668
+  "jobs": 669
  },
  "greenhouse:brex": {
   "ok": true,
@@ -173,11 +173,11 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 392
+  "jobs": 391
  },
  "greenhouse:payoneer": {
   "ok": true,
-  "jobs": 101
+  "jobs": 100
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -284,19 +284,19 @@
   "jobs": 100
  },
  "workday:assurant": {
-  "ok": false,
-  "error": "https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/assurant_careers/jobs: HTTP Error 521: <none>"
+  "ok": true,
+  "jobs": 74
  },
  "workday:bakerhughes": {
-  "ok": false,
-  "error": "https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs: HTTP Error 521: <none>"
+  "ok": true,
+  "jobs": 125
  },
  "workday:chevron": {
-  "ok": false,
-  "error": "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs: HTTP Error 521: <none>"
+  "ok": true,
+  "jobs": 88
  },
  "workday:dow": {
-  "ok": false,
-  "error": "https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs: HTTP Error 521: <none>"
+  "ok": true,
+  "jobs": 140
  }
 }
