@@ -45,15 +45,15 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 166
+  "jobs": 165
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 839
+  "jobs": 840
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 140
+  "jobs": 141
  },
  "ashby:pinecone": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 247
+  "jobs": 246
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 670
+  "jobs": 668
  },
  "greenhouse:brex": {
   "ok": true,
@@ -153,7 +153,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 896
+  "jobs": 895
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 786
+  "jobs": 785
  },
  "himalayas:SAP": {
   "ok": true,
@@ -293,7 +293,7 @@
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 88
+  "jobs": 87
  },
  "workday:dow": {
   "ok": true,
