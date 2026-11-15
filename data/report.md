@@ -1,9 +1,10 @@
-# Radar de Empleos — 2026-11-15 13:34 UTC
+# Radar de Empleos — 2026-11-15 17:07 UTC
 
-Fuentes OK: 75/75 · Candidatos: 21 · Nuevos en esta corrida: 0
+Fuentes OK: 75/75 · Candidatos: 22 · Nuevos en esta corrida: 1
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
+| ✅ | 57 | [Senior Business Analyst – Data & Reporting (m/f/d)](https://himalayas.app/companies/qualysoft/jobs/senior-business-analyst-data-reporting-m-f-d?utm_source=api) | Qualysoft | Europa (UE) | Austria |
 |  | 64 | [SAP Program Manager – Transformación de Facturación y Pagos (AP)](https://himalayas.app/companies/fistrek/jobs/sap-program-manager-transformacion-de-facturacion-y-pagos-ap?utm_source=api) | Fistrek | Europa (UE) | Spain |
 |  | 63 | [Revenue Operations Analyst (Europe)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
 |  | 60 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
