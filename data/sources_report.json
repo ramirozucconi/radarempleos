@@ -49,7 +49,7 @@
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 837
+  "jobs": 838
  },
  "ashby:perplexity": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 180
+  "jobs": 179
  },
  "ashby:runway": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 668
+  "jobs": 665
  },
  "greenhouse:brex": {
   "ok": true,
