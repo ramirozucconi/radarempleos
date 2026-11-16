@@ -1,7 +1,7 @@
 {
  "ashby:Deepgram": {
   "ok": true,
-  "jobs": 64
+  "jobs": 59
  },
  "ashby:deel": {
   "ok": true,
@@ -9,11 +9,11 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 127
+  "jobs": 125
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 388
+  "jobs": 390
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -29,7 +29,7 @@
  },
  "ashby:lovable": {
   "ok": true,
-  "jobs": 79
+  "jobs": 78
  },
  "ashby:mercury": {
   "ok": true,
@@ -37,11 +37,11 @@
  },
  "ashby:modal": {
   "ok": true,
-  "jobs": 43
+  "jobs": 49
  },
  "ashby:n8n": {
   "ok": true,
-  "jobs": 55
+  "jobs": 60
  },
  "ashby:notion": {
   "ok": true,
@@ -49,11 +49,11 @@
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 838
+  "jobs": 833
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 141
+  "jobs": 144
  },
  "ashby:pinecone": {
   "ok": true,
@@ -61,11 +61,11 @@
  },
  "ashby:posthog": {
   "ok": true,
-  "jobs": 10
+  "jobs": 9
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 179
+  "jobs": 178
  },
  "ashby:runway": {
   "ok": true,
@@ -77,11 +77,11 @@
  },
  "ashby:synthesia": {
   "ok": true,
-  "jobs": 31
+  "jobs": 29
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 67
+  "jobs": 65
  },
  "ashby:vercel": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "getonbrd:SAP": {
   "ok": true,
-  "jobs": 26
+  "jobs": 27
  },
  "getonbrd:business analyst": {
   "ok": true,
@@ -105,7 +105,7 @@
  },
  "getonbrd:finanzas": {
   "ok": true,
-  "jobs": 13
+  "jobs": 14
  },
  "getonbrd:operaciones": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 246
+  "jobs": 245
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -129,19 +129,19 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 665
+  "jobs": 660
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 286
+  "jobs": 276
  },
  "greenhouse:caylent": {
   "ok": true,
-  "jobs": 53
+  "jobs": 50
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 265
+  "jobs": 260
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -149,11 +149,11 @@
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 150
+  "jobs": 144
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 895
+  "jobs": 890
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "greenhouse:gemini": {
   "ok": true,
-  "jobs": 28
+  "jobs": 26
  },
  "greenhouse:nubank": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 391
+  "jobs": 394
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -185,7 +185,7 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 111
+  "jobs": 112
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 785
+  "jobs": 791
  },
  "himalayas:SAP": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 85
+  "jobs": 87
  },
  "lever:tryjeeves": {
   "ok": true,
@@ -241,43 +241,43 @@
  },
  "remotive:SAP": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:accounts payable": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:billing": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:business analyst": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:data analyst": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:finance operations": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:power bi": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:procurement": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:purchasing": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:revenue operations": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "rss:https://weworkremotely.com/remote-jobs.rss": {
   "ok": true,
@@ -285,15 +285,15 @@
  },
  "workday:assurant": {
   "ok": true,
-  "jobs": 74
+  "jobs": 75
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 123
+  "jobs": 124
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 87
+  "jobs": 83
  },
  "workday:dow": {
   "ok": true,
