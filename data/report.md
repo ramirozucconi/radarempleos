@@ -1,19 +1,14 @@
-# Radar de Empleos — 2026-11-18 18:50 UTC
+# Radar de Empleos — 2026-11-19 01:52 UTC
 
-Fuentes OK: 75/75 · Candidatos: 26 · Nuevos en esta corrida: 8
+Fuentes OK: 75/75 · Candidatos: 21 · Nuevos en esta corrida: 1
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 74 | [Accountant & Financial Operations Specialist](https://himalayas.app/companies/sumsub/jobs/accountant-financial-operations-specialist?utm_source=api) | Sumsub | Europa (UE) | Cyprus |
-| ✅ | 67 | [SAP Quality Management (QM) Consultant (all genders) (Any location in Poland)](https://himalayas.app/companies/tenthpin/jobs/sap-quality-management-qm-consultant-all-genders-any-location-in-poland?utm_source=api) | Tenthpin | Europa (UE) | Poland |
-| ✅ | 65 | [Senior Strategic Sourcing Specialist](https://himalayas.app/companies/tether-operations-limited/jobs/senior-strategic-sourcing-specialist-4578096349?utm_source=api) | Tether Operations Limited | Europa (UE) | Poland |
-| ✅ | 65 | [Senior Strategic Sourcing Specialist](https://himalayas.app/companies/tether-operations-limited/jobs/senior-strategic-sourcing-specialist-3853698675?utm_source=api) | Tether Operations Limited | Europa (UE) | Ireland |
-| ✅ | 63 | [SAP CRM-analist (In dienst of freelance)](https://himalayas.app/companies/engiflex/jobs/sap-crm-analist-in-dienst-of-freelance?utm_source=api) | EngiFlex | Europa (UE) | Belgium |
-| ✅ | 62 | [Financial Operations Analyst, 12 Month Fixed Term Contract](https://himalayas.app/companies/monzo/jobs/financial-operations-analyst-12-month-fixed-term-contract?utm_source=api) | Monzo | Reino Unido | United Kingdom |
-| ✅ | 61 | [SAP BASIS Administrator](https://himalayas.app/companies/amerisourcebergen/jobs/sap-basis-administrator?utm_source=api) | AmerisourceBergen | Reino Unido | United Kingdom |
-| ✅ | 57 | [Business Analyst (Calypso)](https://himalayas.app/companies/grupo-data/jobs/business-analyst-calypso?utm_source=api) | Grupo Data | Europa (UE) | Portugal |
-|  | 65 | [Data Analyst](https://himalayas.app/companies/necsws/jobs/data-analyst-8996077985?utm_source=api) | NECSWS | Reino Unido | United Kingdom |
+| ✅ | 67 | [Senior SAP PP Consultant (100%)](https://himalayas.app/companies/ffi-advisory/jobs/senior-sap-pp-consultant-100?utm_source=api) | FFI Advisory | Europa (UE) | Albania, Andorra, Austria, Belarus, Belg |
+|  | 74 | [Accountant & Financial Operations Specialist](https://himalayas.app/companies/sumsub/jobs/accountant-financial-operations-specialist?utm_source=api) | Sumsub | Europa (UE) | Cyprus |
+|  | 65 | [Senior Strategic Sourcing Specialist](https://himalayas.app/companies/tether-operations-limited/jobs/senior-strategic-sourcing-specialist-4578096349?utm_source=api) | Tether Operations Limited | Europa (UE) | Poland |
 |  | 63 | [Revenue Operations Analyst (Europe)](https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15) | Deepgram | Reino Unido | London, UK, United Kingdom |
+|  | 62 | [Financial Operations Analyst, 12 Month Fixed Term Contract](https://himalayas.app/companies/monzo/jobs/financial-operations-analyst-12-month-fixed-term-contract?utm_source=api) | Monzo | Reino Unido | United Kingdom |
 |  | 61 | [Revenue Operations](https://jobs.ashbyhq.com/modal/071da781-5891-4db4-8a71-0e5f86f2b46f) | Modal | Europa (UE) | Stockholm, Sweden |
 |  | 56 | [Technical Operations Analyst, Automation & Evaluations](https://jobs.ashbyhq.com/openai/696bb5ff-f840-4a5e-928f-e338b52b2014) | Openai | Europa (UE) | Dublin, Ireland, Ireland |
 |  | 55 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
