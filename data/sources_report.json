@@ -9,11 +9,11 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 128
+  "jobs": 129
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 393
+  "jobs": 390
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 102
+  "jobs": 103
  },
  "ashby:linear": {
   "ok": true,
@@ -41,19 +41,19 @@
  },
  "ashby:n8n": {
   "ok": true,
-  "jobs": 66
+  "jobs": 68
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 169
+  "jobs": 167
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 840
+  "jobs": 849
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 147
+  "jobs": 148
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 183
+  "jobs": 185
  },
  "ashby:runway": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "ashby:supabase": {
   "ok": true,
-  "jobs": 78
+  "jobs": 79
  },
  "ashby:synthesia": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "getonbrd:SAP": {
   "ok": true,
-  "jobs": 28
+  "jobs": 29
  },
  "getonbrd:business analyst": {
   "ok": true,
@@ -97,7 +97,7 @@
  },
  "getonbrd:compras": {
   "ok": true,
-  "jobs": 3
+  "jobs": 4
  },
  "getonbrd:data analyst": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 639
+  "jobs": 637
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 261
+  "jobs": 249
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 255
+  "jobs": 253
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -153,11 +153,11 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 903
+  "jobs": 898
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 34
+  "jobs": 35
  },
  "greenhouse:fireblocks": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 390
+  "jobs": 391
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 778
+  "jobs": 772
  },
  "himalayas:SAP": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 90
+  "jobs": 91
  },
  "lever:tryjeeves": {
   "ok": true,
@@ -281,7 +281,7 @@
  },
  "rss:https://weworkremotely.com/remote-jobs.rss": {
   "ok": true,
-  "jobs": 94
+  "jobs": 93
  },
  "workday:assurant": {
   "ok": true,
@@ -289,7 +289,7 @@
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 127
+  "jobs": 126
  },
  "workday:chevron": {
   "ok": true,
