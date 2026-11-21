@@ -1,7 +1,7 @@
 {
  "ashby:Deepgram": {
   "ok": true,
-  "jobs": 53
+  "jobs": 52
  },
  "ashby:deel": {
   "ok": true,
@@ -9,11 +9,11 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 124
+  "jobs": 122
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 386
+  "jobs": 388
  },
  "ashby:kraken.com": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "ashby:langchain": {
   "ok": true,
-  "jobs": 103
+  "jobs": 102
  },
  "ashby:linear": {
   "ok": true,
@@ -29,7 +29,7 @@
  },
  "ashby:lovable": {
   "ok": true,
-  "jobs": 79
+  "jobs": 78
  },
  "ashby:mercury": {
   "ok": true,
@@ -45,15 +45,15 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 169
+  "jobs": 170
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 853
+  "jobs": 851
  },
  "ashby:perplexity": {
   "ok": true,
-  "jobs": 148
+  "jobs": 151
  },
  "ashby:pinecone": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 185
+  "jobs": 187
  },
  "ashby:runway": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 56
+  "jobs": 61
  },
  "ashby:vercel": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "getonbrd:SAP": {
   "ok": true,
-  "jobs": 27
+  "jobs": 29
  },
  "getonbrd:business analyst": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 639
+  "jobs": 634
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 245
+  "jobs": 249
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -153,7 +153,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 895
+  "jobs": 896
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -161,7 +161,7 @@
  },
  "greenhouse:fireblocks": {
   "ok": true,
-  "jobs": 29
+  "jobs": 28
  },
  "greenhouse:gemini": {
   "ok": true,
@@ -185,15 +185,15 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 108
+  "jobs": 109
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "jobs": 167
+  "jobs": 169
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 778
+  "jobs": 779
  },
  "himalayas:SAP": {
   "ok": true,
@@ -237,7 +237,7 @@
  },
  "lever:tryjeeves": {
   "ok": true,
-  "jobs": 76
+  "jobs": 79
  },
  "remotive:SAP": {
   "ok": true,
@@ -289,7 +289,7 @@
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 127
+  "jobs": 129
  },
  "workday:chevron": {
   "ok": true,

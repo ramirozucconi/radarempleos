@@ -1,13 +1,81 @@
 {
- "generated_at": "2026-11-20T18:36:37+00:00",
+ "generated_at": "2026-11-21T01:29:59+00:00",
  "stats": {
-  "raw": 7810,
-  "candidates": 20,
+  "raw": 7826,
+  "candidates": 23,
   "new": 4,
   "sources_ok": 75,
   "sources_total": 75
  },
  "jobs": [
+  {
+   "source": "himalayas",
+   "company": "Sekoia",
+   "title": "Finance Data Analyst",
+   "url": "https://himalayas.app/companies/sekoia/jobs/finance-data-analyst?utm_source=api",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "remote": true,
+   "posted_at": "2026-11-20T19:18:38+00:00",
+   "description": "Sekoia is an AI-native SOC platform combining next-generation SIEM, SOAR, and Cyber Threat Intelligence. Following a €26M Series B in 2025, we are scaling the company and preparing for the next stages of our development. As Finance Data Analyst , you will turn fragmented financial and corporate data into reliable information for decision-making. Reporting to the Head of Finance and working closely with Data Engineering , you will act as the bridge between Finance and technical teams. You will map data sources , clarify definitions, investigate discrepancies, and structure the datasets and reporting needed for financial and corporate steering. You will work hands-on with the available data without owning the data lake or every integration end-to-end. Your role will be to challenge data quality and assumptions , document what is missing, and help Finance and leadership rely on consistent and actionable information. In this evolving environment, you will bring structure while keeping a practical focus on delivering useful analysis, reporting, and automation. Systems in scope: Your scope will cover data from the main systems used for financial, commercial, operational, and corporate steering: Data: Metabase (you will be the owner of the tool) Finance and planning: Pennylane, Agicap, Pigment (you will be the owner of the data in the tool) , and Excel Revenue and CRM: HubSpot and Younium People and expenses: Lucca, SILAE, Navan, and TeamTailor (ATS - recruitment tool) Cloud and inf",
+   "salary": "",
+   "score": 69,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "987d9db47aaafd34",
+   "first_seen": "2026-11-21T01:29:59+00:00",
+   "is_new": true
+  },
+  {
+   "source": "himalayas",
+   "company": "Pavago",
+   "title": "Sourcing Specialist (Private Aviation)",
+   "url": "https://himalayas.app/companies/pavago/jobs/sourcing-specialist-private-aviation?utm_source=api",
+   "location": "Argentina",
+   "remote": true,
+   "posted_at": "2026-11-20T17:56:26+00:00",
+   "description": "Position Type: Full-Time | Remote Working Hours: U.S. business hours About the Role We are looking for a proactive and results-driven Sourcing Specialist to identify and secure private aircraft for client trip requirements. You will work closely with aircraft owners, sourcing platforms, and internal teams to gather quotes, negotiate pricing, compare available options, and support the charter booking process. This role is ideal for someone with strong sales, negotiation, or procurement experience who is confident communicating over the phone, managing multiple requests, and building professional supplier relationships. Experience in private aviation is a plus, but a willingness to learn the industry is essential. Key Responsibilities Aircraft Sourcing & Owner Outreach Identify and evaluate private aircraft based on specific trip requirements. Contact aircraft owners by phone and email to confirm availability, pricing, and aircraft details. Build and maintain professional relationships with aircraft owners to improve sourcing opportunities. Negotiation & Quote Management Negotiate competitive pricing and favorable terms with aircraft owners. Compare aircraft options based on price, availability, quality, and client requirements. Prepare clear sourcing options and support quote preparation for the sales team. Follow-Up & Pipeline Management Track pending quotes, open negotiations, and active sourcing requests. Follow up consistently with aircraft owners to keep opportunities mov",
+   "salary": "",
+   "score": 68,
+   "region": "Argentina",
+   "flags": [],
+   "key": "fefb17c64468a625",
+   "first_seen": "2026-11-21T01:29:59+00:00",
+   "is_new": true
+  },
+  {
+   "source": "himalayas",
+   "company": "Twtspain",
+   "title": "Consultor/a SAP SD – Proyecto Internacional – 100% Remoto",
+   "url": "https://himalayas.app/companies/twtspain/jobs/consultor-a-sap-sd-proyecto-internacional-100-remoto?utm_source=api",
+   "location": "Spain",
+   "remote": true,
+   "posted_at": "2026-11-21T01:10:45+00:00",
+   "description": "Descripción En The Whiteam Consulting buscamos un/a Consultor/a SAP SD para participar en un proyecto internacional, colaborando en la configuración y adaptación de los procesos de ventas y servicios en SAP para distintos países. La persona seleccionada trabajará junto al equipo SAP de cliente, participando en actividades de análisis funcional, configuración, pruebas e implantación de mejoras dentro del módulo SAP SD. Responsabilidades Documentar requisitos y soluciones funcionales/técnicas en SAP SD. Configurar SAP en entornos de desarrollo cuando sea necesario. Coordinar cambios y validaciones con el equipo SAP del cliente. Asegurar que los procesos de ventas y servicios estén correctamente adaptados a cada país. Participar en la definición y alineación de procesos de negocio. Dar soporte a pruebas de integración utilizando SAP Solution Manager . Apoyar la formación de key users y usuarios de negocio. Colaborar con equipos internacionales en inglés. Requisitos Experiencia como Consultor/a SAP SD . Experiencia en configuración funcional del módulo SAP SD. Experiencia en documentación funcional y definición de soluciones. Conocimiento de procesos de ventas y servicios en SAP. Experiencia en pruebas funcionales e integración. Capacidad de interlocución con negocio y equipos técnicos. Inglés C1 imprescindible. Español fluido. Se valorará Experiencia en proyectos internacionales. Conocimiento de SAP Solution Manager . Experiencia en implantaciones, rollouts o mejoras evolutivas.",
+   "salary": "",
+   "score": 63,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "b2a291bce7e70b1e",
+   "first_seen": "2026-11-21T01:29:59+00:00",
+   "is_new": true
+  },
+  {
+   "source": "himalayas",
+   "company": "GEC",
+   "title": "Business Analyst - Projets applicatifs",
+   "url": "https://himalayas.app/companies/gec/jobs/business-analyst-projets-applicatifs?utm_source=api",
+   "location": "France",
+   "remote": true,
+   "posted_at": "2026-11-20T20:56:26+00:00",
+   "description": "Description et livrables de la prestation Pour un acteur du secteur de l’assurance, nous recherchons un Business Analyst confirmé pour accompagner des projets d’évolution du système d’information : sélection de solutions, déploiement de nouveaux outils et mises à niveau applicatives. En lien avec les équipes métiers, les équipes IT et les prestataires externes, il interviendra sur l’ensemble du cycle projet : Recueil et formalisation des besoins métiers. Participation aux consultations et au choix des solutions. Rédaction des user stories et contribution aux comités projet. Coordination du suivi des développements et des phases de tests. Accompagnement des mises en production. Il contribuera également aux travaux liés aux interfaces applicatives, à la sécurité et à l’architecture, ainsi qu’à la préparation des dossiers soumis aux instances de validation. Un suivi régulier de l’avancement et une remontée proactive des points d’attention sont attendus. Expertise souhaitée Expérience confirmée en Business Analysis sur des projets IT. Pratique des consultations fournisseurs et des démarches RFI/RFP. Capacité à échanger avec les experts en architecture, cybersécurité et protection des données. Maîtrise des étapes d’un projet, du cadrage jusqu’à la mise en production. Aisance dans la coordination d’interlocuteurs métiers, techniques et externes. Autonomie, proactivité et qualité de reporting. Mobilité Non renseigné Originally posted on Himalayas",
+   "salary": "",
+   "score": 57,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "5c4205426c211aa0",
+   "first_seen": "2026-11-21T01:29:59+00:00",
+   "is_new": true
+  },
   {
    "source": "himalayas",
    "company": "EngiFlex",
@@ -23,7 +91,7 @@
    "flags": [],
    "key": "03190207562f4e8b",
    "first_seen": "2026-11-20T18:36:37+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "rss:weworkremotely.com",
@@ -42,26 +110,7 @@
    ],
    "key": "1458569a82320850",
    "first_seen": "2026-11-20T18:36:37+00:00",
-   "is_new": true
-  },
-  {
-   "source": "himalayas",
-   "company": "Advancing Analytics",
-   "title": "RevOps Specialist",
-   "url": "https://himalayas.app/companies/advancing-analytics/jobs/revops-specialist?utm_source=api",
-   "location": "United Kingdom",
-   "remote": true,
-   "posted_at": "2026-11-20T14:14:14+00:00",
-   "description": "RevOps Specialist 💸Salary : £40,000 to £50,000 per annum (depending on experience) 📍Location : We're a Remote-First organisation - with occasional travel to our London or Manchester offices. 🧠Interview process: Two rounds. 1: Get to know you chat with one of the Talent Team; 2: Competency Interview with the Hiring Lead and a member of the Sales Team. 🤝Our Values: Advancing, Come as you are, Zero burnout, Level Up and Transparency Learn more about us: YouTube, read ourBlogs& understand ourvalues! 🚀 Who Are We? Advancing Analytics are a market leader in delivering advanced Data + AI solutions for customers all over the world. To thrive in today's market, businesses need to implement AI built on a solid, reliable Data Platform. Our Growth team helps bring that work to new customers, and this role provides the systems, data and processes that help the team perform at its best. 🔎 Who are we looking for? We’re looking for a Growth Operations Specialist who will help our Growth (Sales, Partnerships and Marketing) teams perform at their best through reliable data, clear processes and useful reporting. Sales activity may be the most visible part of the role, but the remit covers the whole pipeline, from campaign and partner activity through lead progression, opportunity management and commercial handover. 🎯 What will you do? You will be the day-to-day operational lead for HubSpot and related Growth processes and you will make sure records are accurate, reports can be trusted, leads an",
-   "salary": "GBP 40000–50000 al año",
-   "score": 60,
-   "region": "Reino Unido",
-   "flags": [
-    "Requiere visa UK"
-   ],
-   "key": "77d053a425bf8922",
-   "first_seen": "2026-11-20T18:36:37+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "himalayas",
@@ -80,7 +129,7 @@
    ],
    "key": "f5f6cf4562b8a515",
    "first_seen": "2026-11-20T18:36:37+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:modal",
@@ -90,7 +139,7 @@
    "location": "Stockholm, Sweden",
    "remote": null,
    "posted_at": "2026-11-16T18:28:47.931000+00:00",
-   "description": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\n\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it is open right now.\n\n\nOur customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition, DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.\n\n\nWe've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.\n\n\nOur team includes creators of popular open-source projects (e.g.,Seaborn https://github.com/mwaskom/seaborn,Luigi https://github.com/spotify/luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.\n\n\n\n\nTHE ROLE:\n\nWe’re seeking a Revenue Operations Manager with a strong track record, a builder’s mindset, and a bias for action to join our in-person team in Stockholm.\n\nThis is a high-impact, hands-on role. You’ll own the entire revenue operations function, from",
+   "description": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\n\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it is open right now.\n\n\nOur customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition, DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.\n\n\nWe've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.\n\n\nOur team includes creators of popular open-source projects (e.g., Seaborn https://github.com/mwaskom/seaborn, Luigi https://github.com/spotify/luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.\n\n\n\n\nTHE ROLE:\n\nWe’re seeking a Revenue Operations Manager with a strong track record, a builder’s mindset, and a bias for action to join our in-person team in Stockholm.\n\nThis is a high-impact, hands-on role. You’ll own the entire revenue operations function, fr",
    "salary": "$180K – $200K",
    "score": 56,
    "region": "Europa (UE)",
@@ -106,7 +155,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-11-13T18:36:38.989726+00:00",
+   "posted_at": "2026-11-14T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -123,7 +172,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116191-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-11-13T18:36:38.989726+00:00",
+   "posted_at": "2026-11-14T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -140,7 +189,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-21T18:36:38.989726+00:00",
+   "posted_at": "2026-10-22T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -157,7 +206,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1",
    "location": "Buenos Aires (Alem)",
    "remote": null,
-   "posted_at": "2026-11-03T18:36:38.989726+00:00",
+   "posted_at": "2026-11-04T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -211,7 +260,7 @@
    "location": "London",
    "remote": null,
    "posted_at": "2026-11-16T18:26:31.977000+00:00",
-   "description": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\n\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it is open right now.\n\n\nOur customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition, DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.\n\n\nWe've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.\n\n\nOur team includes creators of popular open-source projects (e.g.,Seaborn https://github.com/mwaskom/seaborn,Luigi https://github.com/spotify/luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.\n\n\n\n\nTHE ROLE:\n\nWe’re seeking a Revenue Operations Manager with a strong track record, a builder’s mindset, and a bias for action to join our in-person team in London.\n\nThis is a high-impact, hands-on role. You’ll own the entire revenue operations function, from to",
+   "description": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\n\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it is open right now.\n\n\nOur customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition, DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.\n\n\nWe've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.\n\n\nOur team includes creators of popular open-source projects (e.g., Seaborn https://github.com/mwaskom/seaborn, Luigi https://github.com/spotify/luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.\n\n\n\n\nTHE ROLE:\n\nWe’re seeking a Revenue Operations Manager with a strong track record, a builder’s mindset, and a bias for action to join our in-person team in London.\n\nThis is a high-impact, hands-on role. You’ll own the entire revenue operations function, from ",
    "salary": "$180K – $200K",
    "score": 47,
    "region": "Reino Unido",
@@ -229,7 +278,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-10-26T18:36:38.989726+00:00",
+   "posted_at": "2026-10-27T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 47,
@@ -280,25 +329,6 @@
    "is_new": false
   },
   {
-   "source": "ashby:openai",
-   "company": "Openai",
-   "title": "Privacy Operations Analyst",
-   "url": "https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073",
-   "location": "Dublin, Ireland, Ireland",
-   "remote": true,
-   "posted_at": "2026-11-17T21:24:20.132000+00:00",
-   "description": "About the Team\n\nRegulatory & Privacy Operations sits within User Safety & Risk Operations (USRO), part of OpenAI’s broader User Operations organization. We build and run the operational programs that protect user rights and support OpenAI’s legal, regulatory & privacy obligations across its products and developer tools.\n\nWe partner with Legal, Privacy Engineering, Product, Policy, Governance, Risk & Compliance, Support Operations, and external vendors to resolve sensitive cases and build reliable, scalable operations. Our remit spans privacy, online safety, AI regulation, and intellectual property.\n\nAbout the Role\n\nWe are seeking an experienced Privacy Operations Analyst to own and evolve our global Privacy Operations workstream from Dublin. This individual contributor role combines hands-on management of complex privacy matters with accountability for operational health, vendor quality, and program improvement.\n\nYou will take end-to-end ownership of how privacy rights requests are received, assessed, routed, and resolved across a tiered operating model. You will partner closely with Privacy Legal, the Data Protection Officer’s office, Privacy Engineering, and operations teams to translate legal guidance into practical workflows and resolve issues that cross organizational boundaries.\n\nBeyond keeping operations healthy, you will set priorities and deliver improvements that reduce avoidable demand, strengthen controls, and enable safe automation. We are looking for someone who",
-   "salary": "",
-   "score": 40,
-   "region": "Europa (UE)",
-   "flags": [
-    "Pide 8+ años"
-   ],
-   "key": "f2221c5ceb84397a",
-   "first_seen": "2026-11-18T02:25:51+00:00",
-   "is_new": false
-  },
-  {
    "source": "greenhouse:cookunity",
    "company": "CookUnity",
    "title": "Business Operations Associate",
@@ -341,7 +371,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Sr-Mgr--International-Supply-Chain_R-115707-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-11-13T18:36:38.989726+00:00",
+   "posted_at": "2026-11-14T01:30:00.973490+00:00",
    "description": "",
    "salary": "",
    "score": 37,
@@ -368,6 +398,25 @@
    ],
    "key": "134e56f2fabb540c",
    "first_seen": "2026-11-02T22:12:44+00:00",
+   "is_new": false
+  },
+  {
+   "source": "ashby:openai",
+   "company": "Openai",
+   "title": "Privacy Operations Analyst",
+   "url": "https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073",
+   "location": "Dublin, Ireland, Ireland",
+   "remote": true,
+   "posted_at": "2026-11-17T21:24:20.132000+00:00",
+   "description": "About the Team\n\nRegulatory & Privacy Operations sits within User Safety & Risk Operations (USRO), part of OpenAI’s broader User Operations organization. We build and run the operational programs that protect user rights and support OpenAI’s legal, regulatory & privacy obligations across its products and developer tools.\n\nWe partner with Legal, Privacy Engineering, Product, Policy, Governance, Risk & Compliance, Support Operations, and external vendors to resolve sensitive cases and build reliable, scalable operations. Our remit spans privacy, online safety, AI regulation, and intellectual property.\n\nAbout the Role\n\nWe are seeking an experienced Privacy Operations Analyst to own and evolve our global Privacy Operations workstream from Dublin. This individual contributor role combines hands-on management of complex privacy matters with accountability for operational health, vendor quality, and program improvement.\n\nYou will take end-to-end ownership of how privacy rights requests are received, assessed, routed, and resolved across a tiered operating model. You will partner closely with Privacy Legal, the Data Protection Officer’s office, Privacy Engineering, and operations teams to translate legal guidance into practical workflows and resolve issues that cross organizational boundaries.\n\nBeyond keeping operations healthy, you will set priorities and deliver improvements that reduce avoidable demand, strengthen controls, and enable safe automation. We are looking for someone who",
+   "salary": "",
+   "score": 35,
+   "region": "Europa (UE)",
+   "flags": [
+    "Pide 8+ años"
+   ],
+   "key": "f2221c5ceb84397a",
+   "first_seen": "2026-11-18T02:25:51+00:00",
    "is_new": false
   }
  ]
