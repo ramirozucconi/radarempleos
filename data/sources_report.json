@@ -9,7 +9,7 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 121
+  "jobs": 122
  },
  "ashby:harvey": {
   "ok": true,
@@ -129,7 +129,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 635
+  "jobs": 633
  },
  "greenhouse:brex": {
   "ok": true,
@@ -153,7 +153,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 895
+  "jobs": 893
  },
  "greenhouse:ebanx": {
   "ok": true,
@@ -161,7 +161,7 @@
  },
  "greenhouse:fireblocks": {
   "ok": true,
-  "jobs": 28
+  "jobs": 35
  },
  "greenhouse:gemini": {
   "ok": true,
@@ -173,11 +173,11 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 388
+  "jobs": 391
  },
  "greenhouse:payoneer": {
   "ok": true,
-  "jobs": 100
+  "jobs": 101
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 778
+  "jobs": 777
  },
  "himalayas:SAP": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 90
+  "jobs": 91
  },
  "lever:tryjeeves": {
   "ok": true,
@@ -293,7 +293,7 @@
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 85
+  "jobs": 82
  },
  "workday:dow": {
   "ok": true,
