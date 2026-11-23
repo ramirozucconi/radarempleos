@@ -1,13 +1,19 @@
-# Radar de Empleos — 2026-11-22 17:48 UTC
+# Radar de Empleos — 2026-11-23 00:50 UTC
 
-Fuentes OK: 75/75 · Candidatos: 19 · Nuevos en esta corrida: 4
+Fuentes OK: 75/75 · Candidatos: 25 · Nuevos en esta corrida: 6
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 70 | [Manager, Accounts Payable](https://weworkremotely.com/remote-jobs/datadog-manager-accounts-payable) | Datadog | Latinoamérica | Anywhere in the World |
-| ✅ | 66 | [1204 - Accounting Analyst](https://himalayas.app/companies/gofasti/jobs/1204-accounting-analyst?utm_source=api) | GoFasti | Argentina | Anguilla, Antigua and Barbuda, Argentina |
-| ✅ | 61 | [Senior Chef de projet IT / Business Analyst - Systèmes d'information voyageurs (](https://himalayas.app/companies/engiflex/jobs/senior-chef-de-projet-it-business-analyst-systemes-d-information-voyageurs?utm_source=api) | EngiFlex | Europa (UE) | Belgium |
-| ✅ | 59 | [Senior Business Analyst - M&A (100% remote Worldwide)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-m-a-100-remote-worldwide-7730586981?utm_source=api) | Tether Operations Limited | Europa (UE) | Belgium |
+| ✅ | 73 | [Accounts Payable Specialist](https://weworkremotely.com/remote-jobs/samsara-accounts-payable-specialist) | Samsara | Latinoamérica | Anywhere in the World |
+| ✅ | 72 | [AMER Data Analyst - Sales Strategy and Operations](https://weworkremotely.com/remote-jobs/stripe-amer-data-analyst-sales-strategy-and-operations) | Stripe | Latinoamérica | Anywhere in the World |
+| ✅ | 57 | [Senior Business Analyst](https://himalayas.app/companies/addendum/jobs/senior-business-analyst?utm_source=api) | ADDENDUM | Europa (UE) | Lithuania |
+| ✅ | 57 | [Billing Assistant (d/f/m)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/PL-OTHER-POLAND/Billing-Assistant--d-f-m-_R170047) | Baker Hughes | Europa (UE) | PL-OTHER POLAND |
+| ✅ | 41 | [Global Payroll Operations Specialist - Bulgaria](https://himalayas.app/companies/rippling/jobs/global-payroll-operations-specialist-bulgaria?utm_source=api) | Rippling | Europa (UE) | Bulgaria |
+| ✅ | 35 | [Deal Desk Analyst (Eastern Time Zone Preferred)](https://weworkremotely.com/remote-jobs/mixpanel-deal-desk-analyst-eastern-time-zone-preferred) | Mixpanel | Latinoamérica | Anywhere in the World |
+|  | 70 | [Manager, Accounts Payable](https://weworkremotely.com/remote-jobs/datadog-manager-accounts-payable) | Datadog | Latinoamérica | Anywhere in the World |
+|  | 66 | [1204 - Accounting Analyst](https://himalayas.app/companies/gofasti/jobs/1204-accounting-analyst?utm_source=api) | GoFasti | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+|  | 61 | [Senior Chef de projet IT / Business Analyst - Systèmes d'information voyageurs (](https://himalayas.app/companies/engiflex/jobs/senior-chef-de-projet-it-business-analyst-systemes-d-information-voyageurs?utm_source=api) | EngiFlex | Europa (UE) | Belgium |
+|  | 59 | [Senior Business Analyst - M&A (100% remote Worldwide)](https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-m-a-100-remote-worldwide-7730586981?utm_source=api) | Tether Operations Limited | Europa (UE) | Belgium |
 |  | 56 | [Revenue Operations](https://jobs.ashbyhq.com/modal/071da781-5891-4db4-8a71-0e5f86f2b46f) | Modal | Europa (UE) | Stockholm, Sweden |
 |  | 55 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Sourcing Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116191-1) | Assurant | Argentina | Buenos Aires (Butty) |

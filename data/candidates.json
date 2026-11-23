@@ -1,13 +1,121 @@
 {
- "generated_at": "2026-11-22T17:48:46+00:00",
+ "generated_at": "2026-11-23T00:50:08+00:00",
  "stats": {
-  "raw": 7826,
-  "candidates": 19,
-  "new": 4,
+  "raw": 7829,
+  "candidates": 25,
+  "new": 6,
   "sources_ok": 75,
   "sources_total": 75
  },
  "jobs": [
+  {
+   "source": "rss:weworkremotely.com",
+   "company": "Samsara",
+   "title": "Accounts Payable Specialist",
+   "url": "https://weworkremotely.com/remote-jobs/samsara-accounts-payable-specialist",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "posted_at": "2026-11-22T18:31:57+00:00",
+   "description": "Headquarters: Remote - Mexico Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale. Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term. About the role: As an Accounts Payable (AP) Specialist, you’ll help ensure Samsara’s invoices and vendor payments are processed accurately, on time, and in accordance with company policies. You’ll report to the Accounts Payable Manager and support the procure-to-pay process. You’ll partner with colleagues across the company and with vendors to resolve questions, keep payments moving, and improve AP processes as Samsara grows. Th",
+   "salary": "",
+   "score": 73,
+   "region": "Latinoamérica",
+   "flags": [
+    "Remoto global: confirmar que acepta Argentina"
+   ],
+   "key": "ef1f63695319470f",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
+  {
+   "source": "rss:weworkremotely.com",
+   "company": "Stripe",
+   "title": "AMER Data Analyst - Sales Strategy and Operations",
+   "url": "https://weworkremotely.com/remote-jobs/stripe-amer-data-analyst-sales-strategy-and-operations",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "posted_at": "2026-11-22T18:32:19+00:00",
+   "description": "Headquarters: Chicago, US Remote, SF, NYC, Seattle Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Sales Strategy & Operations team is responsible for the overall productivity and effectiveness of the sales organization, partnering closely with the sales team and other teams across Stripe to drive highly strategic initiatives. This team is integral in the success of our sales organization. With a commitment to excellence and a deep understanding of the art and science of sales, our team is dedicated to informing the sales strategy, optimising processes, and providing insights that propel our sales growth. We do this by being objective, trusted partners to the Sales Leadership team. What you’ll do We are seeking a technically sophisticated and detail oriented individual who will serve as a Sales Strategy and Operations Data Analyst in support of the AMER Velocity (Commercial and SMB) business. This person will be responsible for improving the quality of sales analytics and insights, includin",
+   "salary": "",
+   "score": 72,
+   "region": "Latinoamérica",
+   "flags": [
+    "Remoto global: confirmar que acepta Argentina"
+   ],
+   "key": "b3b33449edc54838",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
+  {
+   "source": "himalayas",
+   "company": "ADDENDUM",
+   "title": "Senior Business Analyst",
+   "url": "https://himalayas.app/companies/addendum/jobs/senior-business-analyst?utm_source=api",
+   "location": "Lithuania",
+   "remote": true,
+   "posted_at": "2026-11-22T22:30:42+00:00",
+   "description": "ABOUT THE COMPANY: Join ADDENDUM , a global software development and IT team augmentation firm focusing on fintech, banking, and telco industries. Experience tailored benefits, diverse projects with various tech stacks, and opportunities for growth, freedom, and responsibility you desire. ABOUT THE ROLE: As a Senior Business Analyst you'll collaborate with dedicated professionals in the government sector, contributing to exciting project focused on metadata migration and alignment sourced from multiple governmental institutions. WHAT WE EXPECT: Familiarity with metadata standards, particularly DCAT-AP, and experience in metadata governance, management, creation (both manual and automated methods), extraction, domain and common dictionaries.﻿ Proficiency in semantic technologies utilized in the EU, including OWL and RDF/XML, is essential. Experience working with the Essential project architecture tool (). Demonstrated experience with Agile methodology and proficiency in utilizing project management tools such as Jira and analogous products. English and Lithuanian language skills are mandatory.﻿ WHAT WE OFFER: Salary ranges (for employees in Lithuania only): 3500 - 5500 gross (the given range is flexible and depends on your experience). At Addendum we believe in personalized benefits packages that cater to your unique passions. Tell us what drives you, and we'll craft a package accordingly. On top of that, heres whats in store automatically: Flexible Hours: No more 9-to-5; work",
+   "salary": "EUR 3500–5500 al año",
+   "score": 57,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "e14bad801798c9a3",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
+  {
+   "source": "workday:bakerhughes",
+   "company": "Baker Hughes",
+   "title": "Billing Assistant (d/f/m)",
+   "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/PL-OTHER-POLAND/Billing-Assistant--d-f-m-_R170047",
+   "location": "PL-OTHER POLAND",
+   "remote": null,
+   "posted_at": "2026-11-23T00:50:10.000631+00:00",
+   "description": "",
+   "salary": "",
+   "score": 57,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "bc864d21234aa2f6",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
+  {
+   "source": "himalayas",
+   "company": "Rippling",
+   "title": "Global Payroll Operations Specialist - Bulgaria",
+   "url": "https://himalayas.app/companies/rippling/jobs/global-payroll-operations-specialist-bulgaria?utm_source=api",
+   "location": "Bulgaria",
+   "remote": true,
+   "posted_at": "2026-11-22T19:53:07+00:00",
+   "description": "About Rippling Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system. Take onboarding, for example. With Rippling , you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds. Based in San Francisco, CA, Rippling has raised $1.2B from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes. We prioritize candidate safety. Please be aware that all official communication will only be sent from @ Rippling .com addresses. About the role We're looking for an experienced payroll specialist to join Rippling ’s Global Payroll Operations team. We are rapidly expanding Rippling to serve the needs of employees and employers all over the world. Our Global Payroll Operations team plays a critical role in ensuring the success of our global payroll products, which are natively built and fully integrated with Rippling ’s broader suite of products. As Rippling expands its product offerings globally, there is a critical business need for Rippling to develop new muscles around global product operations a",
+   "salary": "",
+   "score": 41,
+   "region": "Europa (UE)",
+   "flags": [],
+   "key": "dacd72fe2ac5bf2a",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
+  {
+   "source": "rss:weworkremotely.com",
+   "company": "Mixpanel",
+   "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
+   "url": "https://weworkremotely.com/remote-jobs/mixpanel-deal-desk-analyst-eastern-time-zone-preferred",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "posted_at": "2026-11-22T18:31:39+00:00",
+   "description": "Headquarters: Remote, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com . About the Deal Desk Team The Deal Desk team keeps quote-to-cash fast, accurate, and in line with company policy. We help Sales structure deals that grow revenue and limit financial risk. The team is growing, covers multiple time zones, and works every day with Finance, Sales, Legal, Partnerships, and executive leadership. About the Role As a Deal Desk Analyst, you’ll own quote review and approval for your book of deals, work through non-standard terms, and run Salesforce CPQ improvements from idea to rollout. You’ll handle unusual contract scenarios on your own and escalate only when risk calls for it. You’ll also start shaping how Sales, Finance, and Legal work together on deals. You’ll report to the Deal Desk Manager in San Francisco. Responsibilities Advise Global Sales on deal structures that keep quote-to-cash efficient, and be the first call on non-standard terms Review and approve CPQ quotes against company policy, scrutinizing SLAs and customer-specific requests Draft commercial language on order forms to reflect negotiated terms, and route DocuSigns through signature Spot",
+   "salary": "",
+   "score": 35,
+   "region": "Latinoamérica",
+   "flags": [
+    "Remoto global: confirmar que acepta Argentina"
+   ],
+   "key": "b952b47d8f17a211",
+   "first_seen": "2026-11-23T00:50:08+00:00",
+   "is_new": true
+  },
   {
    "source": "rss:weworkremotely.com",
    "company": "Datadog",
@@ -26,7 +134,7 @@
    ],
    "key": "bdcdae1c8240b8fc",
    "first_seen": "2026-11-22T17:48:46+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "himalayas",
@@ -43,7 +151,7 @@
    "flags": [],
    "key": "d7be50ca815b230d",
    "first_seen": "2026-11-22T17:48:46+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "himalayas",
@@ -60,7 +168,7 @@
    "flags": [],
    "key": "27cec3374351eab5",
    "first_seen": "2026-11-22T17:48:46+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "himalayas",
@@ -77,7 +185,7 @@
    "flags": [],
    "key": "7f26dfb26ea40949",
    "first_seen": "2026-11-22T17:48:46+00:00",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "ashby:modal",
@@ -103,7 +211,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-11-13T17:48:47.442777+00:00",
+   "posted_at": "2026-11-14T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -120,7 +228,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116191-1",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-11-13T17:48:47.442777+00:00",
+   "posted_at": "2026-11-14T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -137,7 +245,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359",
    "location": "Buenos Aires (Butty)",
    "remote": null,
-   "posted_at": "2026-10-23T17:48:47.442777+00:00",
+   "posted_at": "2026-10-24T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -154,7 +262,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1",
    "location": "Buenos Aires (Alem)",
    "remote": null,
-   "posted_at": "2026-11-03T17:48:47.442777+00:00",
+   "posted_at": "2026-11-04T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 55,
@@ -207,7 +315,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Lead-Reinsurance-Data-Analyst_R-115865-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-10-26T17:48:47.442777+00:00",
+   "posted_at": "2026-10-27T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 47,
@@ -302,7 +410,7 @@
    "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Sr-Mgr--International-Supply-Chain_R-115707-1",
    "location": "Argentina Virtual",
    "remote": null,
-   "posted_at": "2026-11-13T17:48:47.442777+00:00",
+   "posted_at": "2026-11-14T00:50:09.690436+00:00",
    "description": "",
    "salary": "",
    "score": 37,
