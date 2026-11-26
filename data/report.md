@@ -1,21 +1,15 @@
-# Radar de Empleos — 2026-11-26 02:50 UTC
+# Radar de Empleos — 2026-11-26 19:36 UTC
 
-Fuentes OK: 75/75 · Candidatos: 24 · Nuevos en esta corrida: 8
+Fuentes OK: 75/75 · Candidatos: 18 · Nuevos en esta corrida: 3
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 79 | [General Accountant - Accounts Payable](https://himalayas.app/companies/platform-sh/jobs/general-accountant-accounts-payable?utm_source=api) | Platform.sh | Europa (UE) | Canada, France, Spain |
-| ✅ | 79 | [General Accountant - Accounts Payable](https://himalayas.app/companies/upsun-formerly-platform-sh/jobs/general-accountant-accounts-payable?utm_source=api) | Upsun (formerly Platform.sh) | Europa (UE) | Canada, France, Spain |
-| ✅ | 70 | [Data Analyst](https://himalayas.app/companies/tecdata-engineering/jobs/data-analyst?utm_source=api) | TECDATA ENGINEERING | Europa (UE) | Spain |
-| ✅ | 67 | [Programadores SAP ISU CM](https://himalayas.app/companies/consulsap/jobs/programadores-sap-isu-cm?utm_source=api) | ConsulSAP | Europa (UE) | Spain |
-| ✅ | 67 | [SAP Security & Authorizations Consultant (FUE Optimization)](https://himalayas.app/companies/look4it/jobs/sap-security-authorizations-consultant-fue-optimization?utm_source=api) | Look4IT | Europa (UE) | Poland |
-| ✅ | 59 | [Technical Business Analyst](https://himalayas.app/companies/velixo/jobs/technical-business-analyst?utm_source=api) | Velixo | Europa (UE) | Poland |
-| ✅ | 57 | [Technical Business Analyst/ Proxy Product Owner (AdTech Platform)](https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/technical-business-analyst-proxy-product-owner-adtech-platform?utm_source=api) | Sigma Software | Europa (UE) | Poland |
-| ✅ | 47 | [AI Transformation Lead (Senior Product Owner / Business Analyst)](https://himalayas.app/companies/datacose/jobs/ai-transformation-lead-senior-product-owner-business-analyst?utm_source=api) | DataCose | Latinoamérica | Worldwide |
-|  | 60 | [Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116191-1) | Assurant | Argentina | Buenos Aires (Butty) |
-|  | 57 | [Billing Assistant (d/f/m)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/PL-OTHER-POLAND/Billing-Assistant--d-f-m-_R170047) | Baker Hughes | Europa (UE) | PL-OTHER POLAND |
+| ✅ | 68 | [Data Analyst](https://himalayas.app/companies/jimmy-technologies/jobs/data-analyst?utm_source=api) | Jimmy Technologies | Europa (UE) | Albania, Andorra, Austria, Belarus, Belg |
+| ✅ | 64 | [Finance Analyst](https://himalayas.app/companies/tires-easy/jobs/finance-analyst?utm_source=api) | Tires-Easy | Argentina | Argentina |
+| ✅ | 52 | [Vendor Risk Manager](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Vendor-Risk-Manager_R-116470-1) | Assurant | Argentina | Buenos Aires (Butty) |
+|  | 60 | [Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116354-1) | Assurant | Argentina | Buenos Aires (Butty) |
+|  | 60 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 56 | [Revenue Operations](https://jobs.ashbyhq.com/modal/071da781-5891-4db4-8a71-0e5f86f2b46f) | Modal | Europa (UE) | Stockholm, Sweden |
-|  | 55 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Associate Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Senior Business Intelligence Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1) | Assurant | Argentina | Buenos Aires (Alem) |
 |  | 51 | [Technical Operations Analyst, Automation & Evaluations](https://jobs.ashbyhq.com/openai/696bb5ff-f840-4a5e-928f-e338b52b2014) | Openai | Europa (UE) | Dublin, Ireland, Ireland |
