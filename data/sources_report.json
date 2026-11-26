@@ -17,7 +17,7 @@
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 91
+  "jobs": 92
  },
  "ashby:langchain": {
   "ok": true,
@@ -45,11 +45,11 @@
  },
  "ashby:notion": {
   "ok": true,
-  "jobs": 172
+  "jobs": 174
  },
  "ashby:openai": {
   "ok": true,
-  "jobs": 877
+  "jobs": 876
  },
  "ashby:perplexity": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "jobs": 182
+  "jobs": 183
  },
  "ashby:runway": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 67
+  "jobs": 68
  },
  "ashby:vercel": {
   "ok": true,
@@ -105,11 +105,11 @@
  },
  "getonbrd:finanzas": {
   "ok": true,
-  "jobs": 14
+  "jobs": 15
  },
  "getonbrd:operaciones": {
   "ok": true,
-  "jobs": 47
+  "jobs": 49
  },
  "getonbrd:power bi": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "jobs": 636
+  "jobs": 635
  },
  "greenhouse:brex": {
   "ok": true,
-  "jobs": 261
+  "jobs": 266
  },
  "greenhouse:caylent": {
   "ok": true,
@@ -141,7 +141,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "jobs": 245
+  "jobs": 257
  },
  "greenhouse:consensys": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 390
+  "jobs": 388
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -189,7 +189,7 @@
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "jobs": 157
+  "jobs": 158
  },
  "greenhouse:stripe": {
   "ok": true,
@@ -293,7 +293,7 @@
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 80
+  "jobs": 83
  },
  "workday:dow": {
   "ok": true,

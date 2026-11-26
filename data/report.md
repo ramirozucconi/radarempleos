@@ -1,15 +1,17 @@
-# Radar de Empleos — 2026-11-25 19:56 UTC
+# Radar de Empleos — 2026-11-26 02:50 UTC
 
-Fuentes OK: 75/75 · Candidatos: 23 · Nuevos en esta corrida: 5
+Fuentes OK: 75/75 · Candidatos: 24 · Nuevos en esta corrida: 8
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 65 | [Business Analyst Ssr.](https://himalayas.app/companies/flux-it/jobs/business-analyst-ssr?utm_source=api) | Flux IT | Argentina | Argentina |
-| ✅ | 59 | [SAP Concur Specialist](https://himalayas.app/companies/micro1/jobs/sap-concur-specialist?utm_source=api) | micro1 | Latinoamérica | Worldwide |
-| ✅ | 59 | [Expense Sourcing Category Lead](https://himalayas.app/companies/jll/jobs/expense-sourcing-category-lead?utm_source=api) | JLL | Europa (UE) | Poland |
-| ✅ | 50 | [Procurement and Supply Chain Lead](https://himalayas.app/companies/genesiscare/jobs/procurement-and-supply-chain-lead?utm_source=api) | GenesisCare | Reino Unido | United Kingdom |
-| ✅ | 49 | [Systems, Knowledge Management & Procurement Officer (Consultancy)](https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api) | Aflatoun International | Latinoamérica | Worldwide |
-|  | 69 | [Freelance Data Product Lead voor Finance, Procurement & Sales (50%)](https://himalayas.app/companies/engiflex/jobs/freelance-data-product-lead-voor-finance-procurement-sales-50?utm_source=api) | EngiFlex | Europa (UE) | Belgium |
+| ✅ | 79 | [General Accountant - Accounts Payable](https://himalayas.app/companies/platform-sh/jobs/general-accountant-accounts-payable?utm_source=api) | Platform.sh | Europa (UE) | Canada, France, Spain |
+| ✅ | 79 | [General Accountant - Accounts Payable](https://himalayas.app/companies/upsun-formerly-platform-sh/jobs/general-accountant-accounts-payable?utm_source=api) | Upsun (formerly Platform.sh) | Europa (UE) | Canada, France, Spain |
+| ✅ | 70 | [Data Analyst](https://himalayas.app/companies/tecdata-engineering/jobs/data-analyst?utm_source=api) | TECDATA ENGINEERING | Europa (UE) | Spain |
+| ✅ | 67 | [Programadores SAP ISU CM](https://himalayas.app/companies/consulsap/jobs/programadores-sap-isu-cm?utm_source=api) | ConsulSAP | Europa (UE) | Spain |
+| ✅ | 67 | [SAP Security & Authorizations Consultant (FUE Optimization)](https://himalayas.app/companies/look4it/jobs/sap-security-authorizations-consultant-fue-optimization?utm_source=api) | Look4IT | Europa (UE) | Poland |
+| ✅ | 59 | [Technical Business Analyst](https://himalayas.app/companies/velixo/jobs/technical-business-analyst?utm_source=api) | Velixo | Europa (UE) | Poland |
+| ✅ | 57 | [Technical Business Analyst/ Proxy Product Owner (AdTech Platform)](https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/technical-business-analyst-proxy-product-owner-adtech-platform?utm_source=api) | Sigma Software | Europa (UE) | Poland |
+| ✅ | 47 | [AI Transformation Lead (Senior Product Owner / Business Analyst)](https://himalayas.app/companies/datacose/jobs/ai-transformation-lead-senior-product-owner-business-analyst?utm_source=api) | DataCose | Latinoamérica | Worldwide |
 |  | 60 | [Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116191-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 57 | [Billing Assistant (d/f/m)](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/PL-OTHER-POLAND/Billing-Assistant--d-f-m-_R170047) | Baker Hughes | Europa (UE) | PL-OTHER POLAND |
 |  | 56 | [Revenue Operations](https://jobs.ashbyhq.com/modal/071da781-5891-4db4-8a71-0e5f86f2b46f) | Modal | Europa (UE) | Stockholm, Sweden |
@@ -22,7 +24,6 @@ Fuentes OK: 75/75 · Candidatos: 23 · Nuevos en esta corrida: 5
 |  | 46 | [International Expansion Operations Associate](https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367) | Coinbase | Reino Unido | Remote - UK, UK - Remote Zone 1 (Job Req |
 |  | 42 | [Treasury Specialist](https://job-boards.greenhouse.io/ebanx/jobs/8200749003) | EBANX | Argentina | São Paulo, Brazil - Buenos Aires, Argent |
 |  | 40 | [Procurement Lead](https://jobs.ashbyhq.com/supabase/603a39a9-7cbd-4a57-b27e-daae86885d82) | Supabase | Latinoamérica | Remote, Global |
-|  | 38 | [Sales Operations Analyst - Payward Services](https://jobs.ashbyhq.com/kraken.com/26678506-a9b0-431a-8675-a689d6f19137) | Kraken | Argentina | Europe, Brazil, Ireland, Sweden, Argenti |
 |  | 37 | [Marketing Operations Specialist, SEO/AEO](https://jobs.ashbyhq.com/kraken.com/fe8ccd40-5fcb-4bd1-bc40-3d145d35121c) | Kraken | Argentina | United Kingdom, Brazil, United Arab Emir |
 |  | 37 | [Sr Mgr, International Supply Chain](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Sr-Mgr--International-Supply-Chain_R-115707-1) | Assurant | Argentina | Argentina Virtual |
 |  | 35 | [Product Operations Analyst (Customer Activations)](https://ripple.com/careers/all-jobs/job/8328050?gh_jid=8328050) | Ripple  | Reino Unido | London, UK, Singapore |
