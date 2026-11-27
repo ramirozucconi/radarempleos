@@ -1,15 +1,25 @@
-# Radar de Empleos — 2026-11-27 02:50 UTC
+# Radar de Empleos — 2026-11-27 19:27 UTC
 
-Fuentes OK: 75/75 · Candidatos: 20 · Nuevos en esta corrida: 4
+Fuentes OK: 75/75 · Candidatos: 28 · Nuevos en esta corrida: 11
 
 | Nuevo | Puntaje | Título | Empresa | Región | Ubicación |
 |---|---|---|---|---|---|
-| ✅ | 79 | [Accounts Payable Specialist](https://himalayas.app/companies/ourassistants/jobs/accounts-payable-specialist?utm_source=api) | OurAssistants | Argentina | Anguilla, Antigua and Barbuda, Argentina |
-| ✅ | 63 | [SAP IS-U/ABAP-ontwikkelaar (Freelance)](https://himalayas.app/companies/engiflex/jobs/sap-is-u-abap-ontwikkelaar-freelance?utm_source=api) | EngiFlex | Europa (UE) | Belgium |
-| ✅ | 63 | [SAP ABAP Consultant  Generative AI SDK Development - Germany](https://himalayas.app/companies/x2-nations/jobs/sap-abap-consultant-generative-ai-sdk-development-germany?utm_source=api) | X2 Nations | Europa (UE) | Albania, Andorra, Austria, Belarus, Belg |
-| ✅ | 59 | [Accounting & Operations Specialist | US IT company | 100% remote in LATAM](https://himalayas.app/companies/prometeo-talent/jobs/accounting-operations-specialist-us-it-company-100-remote-in-latam?utm_source=api) | Prometeo Talent | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+| ✅ | 73 | [Data Analyst](https://himalayas.app/companies/huzzle/jobs/data-analyst?utm_source=api) | Huzzle | Europa (UE) | Croatia |
+| ✅ | 63 | [REMOTE SAP Fullstack-Entwickler deutschsprachig](https://himalayas.app/companies/digital-associates/jobs/remote-sap-fullstack-entwickler-deutschsprachig?utm_source=api) | Digital Associates | Europa (UE) | Germany |
+| ✅ | 60 | [#1027 - Accounting Analyst](https://himalayas.app/companies/venon-solutions/jobs/1027-accounting-analyst?utm_source=api) | Venon Solutions | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+| ✅ | 60 | [Finance & Revenue Operations](https://himalayas.app/companies/marathontalent/jobs/finance-revenue-operations?utm_source=api) | Marathon Talent | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+| ✅ | 57 | [Procurement Manager (Data Centres / OFCI) - Contract role](https://himalayas.app/companies/project-blackbook/jobs/procurement-manager-data-centres-ofci-contract-role?utm_source=api) | Project Blackbook | Europa (UE) | Albania, Andorra, Austria, Belarus, Belg |
+| ✅ | 57 | [Urgent Needed: Spanish speaking Online Data Analyst Role](https://himalayas.app/companies/telus-digital/jobs/urgent-needed-spanish-speaking-online-data-analyst-role-8978406902?utm_source=api) | TELUS Digital | Europa (UE) | Spain |
+| ✅ | 57 | [Online Data Analyst - Dutch speakers](https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-dutch-speakers-812930726?utm_source=api) | TELUS Digital | Europa (UE) | Netherlands |
+| ✅ | 57 | [Online Data Analyst - French Speakers](https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-french-speakers?utm_source=api) | TELUS Digital | Europa (UE) | France |
+| ✅ | 54 | [Operations Associate](https://himalayas.app/companies/pearl-talent/jobs/operations-associate?utm_source=api) | Pearl Talent | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+| ✅ | 50 | [SAP Project Manager (Finance) (m/f/d)](https://himalayas.app/companies/nagarro/jobs/sap-project-manager-finance-m-f-d?utm_source=api) | Nagarro | Europa (UE) | Sweden |
+| ✅ | 39 | [Sr. Analyst, FP&A - GTM](https://weworkremotely.com/remote-jobs/beyondtrust-sr-analyst-fp-a-gtm) | BeyondTrust | Latinoamérica | Anywhere in the World |
+|  | 79 | [Accounts Payable Specialist](https://himalayas.app/companies/ourassistants/jobs/accounts-payable-specialist?utm_source=api) | OurAssistants | Argentina | Anguilla, Antigua and Barbuda, Argentina |
+|  | 65 | [SAP S4/HANA MM / EAM & IAM Functional Analys](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/SAP-S4-HANA-MM---EAM---IAM-Functional-Analys_R000072051) | Chevron | Argentina | Buenos Aires, Buenos Aires, Argentina |
 |  | 60 | [Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sourcing-Analyst_R-116354-1) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 60 | [Sr. Vendor Risk Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Sr-Vendor-Risk-Analyst_R-116132-1) | Assurant | Argentina | Buenos Aires (Butty) |
+|  | 59 | [Accounting & Operations Specialist | US IT company | 100% remote in LATAM](https://himalayas.app/companies/prometeo-talent/jobs/accounting-operations-specialist-us-it-company-100-remote-in-latam?utm_source=api) | Prometeo Talent | Argentina | Anguilla, Antigua and Barbuda, Argentina |
 |  | 56 | [Revenue Operations](https://jobs.ashbyhq.com/modal/071da781-5891-4db4-8a71-0e5f86f2b46f) | Modal | Europa (UE) | Stockholm, Sweden |
 |  | 55 | [Associate Procurement Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Butty/Associate-Procurement-Analyst_R-115359) | Assurant | Argentina | Buenos Aires (Butty) |
 |  | 55 | [Senior Business Intelligence Analyst](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Buenos-Aires-Alem/Senior-Business-Intelligence-Analyst_R-115805-1) | Assurant | Argentina | Buenos Aires (Alem) |
@@ -20,7 +30,5 @@ Fuentes OK: 75/75 · Candidatos: 20 · Nuevos en esta corrida: 4
 |  | 46 | [International Expansion Operations Associate](https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367) | Coinbase | Reino Unido | Remote - UK, UK - Remote Zone 1 (Job Req |
 |  | 42 | [Treasury Specialist](https://job-boards.greenhouse.io/ebanx/jobs/8200749003) | EBANX | Argentina | São Paulo, Brazil - Buenos Aires, Argent |
 |  | 40 | [Procurement Lead](https://jobs.ashbyhq.com/supabase/603a39a9-7cbd-4a57-b27e-daae86885d82) | Supabase | Latinoamérica | Remote, Global |
-|  | 37 | [Marketing Operations Specialist, SEO/AEO](https://jobs.ashbyhq.com/kraken.com/fe8ccd40-5fcb-4bd1-bc40-3d145d35121c) | Kraken | Argentina | United Kingdom, Brazil, United Arab Emir |
 |  | 37 | [Sr Mgr, International Supply Chain](https://assurant.wd1.myworkdayjobs.com/assurant_careers/job/Argentina-Virtual/Sr-Mgr--International-Supply-Chain_R-115707-1) | Assurant | Argentina | Argentina Virtual |
-|  | 35 | [Product Operations Analyst (Customer Activations)](https://ripple.com/careers/all-jobs/job/8328050?gh_jid=8328050) | Ripple  | Reino Unido | London, UK, Singapore |
 |  | 35 | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Openai | Europa (UE) | Dublin, Ireland, Ireland |

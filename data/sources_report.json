@@ -13,11 +13,11 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "jobs": 390
+  "jobs": 387
  },
  "ashby:kraken.com": {
   "ok": true,
-  "jobs": 93
+  "jobs": 97
  },
  "ashby:langchain": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "ashby:truelogic": {
   "ok": true,
-  "jobs": 76
+  "jobs": 77
  },
  "ashby:vercel": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "getonbrd:SAP": {
   "ok": true,
-  "jobs": 29
+  "jobs": 21
  },
  "getonbrd:business analyst": {
   "ok": true,
@@ -97,7 +97,7 @@
  },
  "getonbrd:compras": {
   "ok": true,
-  "jobs": 3
+  "jobs": 4
  },
  "getonbrd:data analyst": {
   "ok": true,
@@ -105,11 +105,11 @@
  },
  "getonbrd:finanzas": {
   "ok": true,
-  "jobs": 15
+  "jobs": 16
  },
  "getonbrd:operaciones": {
   "ok": true,
-  "jobs": 48
+  "jobs": 46
  },
  "getonbrd:power bi": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 234
+  "jobs": 232
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -145,19 +145,19 @@
  },
  "greenhouse:consensys": {
   "ok": true,
-  "jobs": 10
+  "jobs": 12
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 138
+  "jobs": 137
  },
  "greenhouse:databricks": {
   "ok": true,
-  "jobs": 883
+  "jobs": 889
  },
  "greenhouse:ebanx": {
   "ok": true,
-  "jobs": 42
+  "jobs": 40
  },
  "greenhouse:fireblocks": {
   "ok": true,
@@ -173,11 +173,11 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 389
+  "jobs": 387
  },
  "greenhouse:payoneer": {
   "ok": true,
-  "jobs": 95
+  "jobs": 94
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -185,7 +185,7 @@
  },
  "greenhouse:ripple": {
   "ok": true,
-  "jobs": 107
+  "jobs": 106
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 767
+  "jobs": 768
  },
  "himalayas:SAP": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "lever:crypto": {
   "ok": true,
-  "jobs": 93
+  "jobs": 94
  },
  "lever:tryjeeves": {
   "ok": true,
@@ -241,43 +241,43 @@
  },
  "remotive:SAP": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:accounts payable": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:billing": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:business analyst": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:data analyst": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:finance operations": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:power bi": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:procurement": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:purchasing": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "remotive:revenue operations": {
   "ok": true,
-  "jobs": 16
+  "jobs": 17
  },
  "rss:https://weworkremotely.com/remote-jobs.rss": {
   "ok": true,
@@ -285,15 +285,15 @@
  },
  "workday:assurant": {
   "ok": true,
-  "jobs": 72
+  "jobs": 70
  },
  "workday:bakerhughes": {
   "ok": true,
-  "jobs": 132
+  "jobs": 129
  },
  "workday:chevron": {
   "ok": true,
-  "jobs": 79
+  "jobs": 71
  },
  "workday:dow": {
   "ok": true,
