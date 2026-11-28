@@ -9,7 +9,7 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "jobs": 109
+  "jobs": 108
  },
  "ashby:harvey": {
   "ok": true,
@@ -109,7 +109,7 @@
  },
  "getonbrd:operaciones": {
   "ok": true,
-  "jobs": 46
+  "jobs": 48
  },
  "getonbrd:power bi": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:adyen": {
   "ok": true,
-  "jobs": 232
+  "jobs": 233
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "greenhouse:cookunity": {
   "ok": true,
-  "jobs": 137
+  "jobs": 136
  },
  "greenhouse:databricks": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "greenhouse:okx": {
   "ok": true,
-  "jobs": 387
+  "jobs": 386
  },
  "greenhouse:payoneer": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "jobs": 768
+  "jobs": 771
  },
  "himalayas:SAP": {
   "ok": true,
